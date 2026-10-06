@@ -1,0 +1,769 @@
+store_id,store_name,product_id,product_name,category,current_stock,supplier_lead_time_days,avg_daily_demand,forecasted_30d_demand,safety_stock,reorder_point,recommended_order_quantity,stockout_risk_pct,overstock_risk_pct,stock_status
+A M Hardware,A M Hardware,BONDSET FAST SETTING 25 GM,BONDSET FAST SETTING 25 GM,Tag71,320,5,63.81,1914.3,1,321,1916,0.0,0.0,LOW STOCK
+A M Hardware,A M Hardware,BONDSET FAST SETTING 60 GM,BONDSET FAST SETTING 60 GM,Tag71,170,5,33.9,1017.0,1,171,1018,1.27,0.0,LOW STOCK
+A M Hardware,A M Hardware,VEGALOCK 20 GM,VEGALOCK 20 GM,Tag71,100,5,20.0,600.0,1,101,601,50.0,0.0,LOW STOCK
+A M Hardware,A M Hardware,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,100,5,20.0,600.0,1,101,601,50.0,0.0,LOW STOCK
+A.V Optics vijayawada,A.V Optics vijayawada,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,1.81,54.3,1,11,36,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Tag71,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,1.86,55.8,1,11,37,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.89,56.7,3,13,40,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,1.99,59.6,1,11,41,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,1.8,54.0,1,10,34,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,2.13,63.9,1,12,46,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,Biotrue Solu - 60ml,Biotrue Solu - 60ml,Tag71,30,5,2.09,62.78,1,12,45,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,Courier Chargers,Courier Chargers,Tag71,30,5,1.47,44.18,1,9,24,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,1.5,45.0,1,9,24,0.0,0.0,OPTIMAL
+AIG Hospital Gachibowli,AIG Hospital Gachibowli,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,1.52,45.6,1,9,25,0.0,0.0,OPTIMAL
+ANAND EYE INSTITUTE - Habsiguda,ANAND EYE INSTITUTE - Habsiguda,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.0,60.0,1,11,41,0.0,0.0,OPTIMAL
+ANAND EYE INSTITUTE - Habsiguda,ANAND EYE INSTITUTE - Habsiguda,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.05,61.5,1,12,44,0.0,0.0,OPTIMAL
+ANAND EYE INSTITUTE - Habsiguda,ANAND EYE INSTITUTE - Habsiguda,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Intra State B2B,30,5,1.69,50.7,1,10,31,0.0,0.0,OPTIMAL
+ANUSHA OPTICALS,ANUSHA OPTICALS,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Tag71,70,5,13.76,412.8,1,70,413,0.0,0.0,LOW STOCK
+ANUSHA OPTICALS,ANUSHA OPTICALS,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Inter State B2B,30,5,6.73,201.9,29,63,235,58.28,0.0,LOW STOCK
+ANUSHA OPTICALS,ANUSHA OPTICALS,Courier Chargers,Courier Chargers,Inter State B2B,30,5,1.54,46.2,1,9,26,0.0,0.0,OPTIMAL
+ANUSHA OPTICALS,ANUSHA OPTICALS,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,7.25,217.5,23,60,248,67.63,0.0,LOW STOCK
+ANUSHA OPTICALS,ANUSHA OPTICALS,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Inter State B2B,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+Abhinav Eye hospital - Peerzadigud,Abhinav Eye hospital - Peerzadigud,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,B2C Small,30,5,1.68,50.4,1,10,31,0.0,0.0,OPTIMAL
+Abhinav Eye hospital - Peerzadigud,Abhinav Eye hospital - Peerzadigud,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),B2C Small,30,5,1.99,59.7,1,11,41,0.0,0.0,OPTIMAL
+Abhinav Eye hospital - Peerzadigud,Abhinav Eye hospital - Peerzadigud,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,B2C Small,30,5,1.97,59.1,1,11,41,0.0,0.0,OPTIMAL
+Abhishek Sales Man,Abhishek Sales Man,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.0,60.0,1,11,41,0.0,0.0,OPTIMAL
+Akshaya advanced eye care centre,Akshaya advanced eye care centre,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+Anita Power Tools & Stone Care,Anita Power Tools & Stone Care,BONDTITE FAST & CLEAR 450 GM (S),BONDTITE FAST & CLEAR 450 GM (S),Intra State B2B,75,5,14.9,447.0,1,76,448,1.27,0.0,LOW STOCK
+Anita Power Tools & Stone Care,Anita Power Tools & Stone Care,VETRA LV (401) 50 GM (SHEME),VETRA LV (401) 50 GM (SHEME),Intra State B2B,500,5,103.73,3111.9,1,520,3132,100.0,0.0,LOW STOCK
+Anitha Power Tools Krishna Nagar,Anitha Power Tools Krishna Nagar,BONDTITE FAST & CLEAR 1 KG (S),BONDTITE FAST & CLEAR 1 KG (S),Tag71,30,5,2.2,66.0,1,12,48,0.0,0.0,OPTIMAL
+Anitha Power Tools Krishna Nagar,Anitha Power Tools Krishna Nagar,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Tag71,1600,5,319.68,9590.4,1,1600,9591,0.0,0.0,LOW STOCK
+Anitha Power Tools Krishna Nagar,Anitha Power Tools Krishna Nagar,VETRA LV (401) 50 GM (SHEME),VETRA LV (401) 50 GM (SHEME),Tag71,400,5,79.83,2394.9,1,401,2396,0.01,0.0,LOW STOCK
+Apollo Opticals (k),Apollo Opticals (k),ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.45,73.5,1,14,58,0.0,0.0,OPTIMAL
+Arihanth Optical (vizag),Arihanth Optical (vizag),ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Asian Enterprises,Asian Enterprises,BONDTITE FAST & CLEAR 1 KG (S),BONDTITE FAST & CLEAR 1 KG (S),Intra State B2B,30,5,2.44,73.2,1,14,58,0.0,0.0,OPTIMAL
+Asian Enterprises,Asian Enterprises,BONDTITE FAST & CLEAR 450 GM (S),BONDTITE FAST & CLEAR 450 GM (S),Intra State B2B,30,5,2.44,73.2,1,14,58,0.0,0.0,OPTIMAL
+Asian Enterprises,Asian Enterprises,FILLX ULTRA 2K IRON GRAY 1KG,FILLX ULTRA 2K IRON GRAY 1KG,Intra State B2B,30,5,1.74,52.2,1,10,33,0.0,0.0,OPTIMAL
+Asian Enterprises,Asian Enterprises,FILLX ULTRA 2K IRON GREY 5 KG,FILLX ULTRA 2K IRON GREY 5 KG,Intra State B2B,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+Asian Enterprises,Asian Enterprises,FILLX ULTRA 2K PURE WHITE 1 KG,FILLX ULTRA 2K PURE WHITE 1 KG,Intra State B2B,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+Asian Enterprises,Asian Enterprises,FILLX ULTRA 2K PURE WHITE 5KG,FILLX ULTRA 2K PURE WHITE 5KG,Intra State B2B,30,5,1.5,45.0,1,9,24,0.0,0.0,OPTIMAL
+Asian Enterprises,Asian Enterprises,FILLX ULTRA 2K SIGNAL BLACK 1 KG,FILLX ULTRA 2K SIGNAL BLACK 1 KG,Intra State B2B,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+Ayudha Eye Care,Ayudha Eye Care,ASPIRE AIR (3 LENS PACK),ASPIRE AIR (3 LENS PACK),Intra State B2B,30,5,1.42,42.45,1,9,22,0.0,0.0,OPTIMAL
+Ayudha Eye Care,Ayudha Eye Care,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,1.73,51.9,1,10,32,0.0,0.0,OPTIMAL
+Ayudha Eye Care,Ayudha Eye Care,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,30,5,2.11,63.3,1,12,46,0.0,0.0,OPTIMAL
+Ayudha Eye Care,Ayudha Eye Care,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.82,54.6,1,11,36,0.0,0.0,OPTIMAL
+Ayudha Eye Care,Ayudha Eye Care,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+Ayudha Eye Care,Ayudha Eye Care,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.88,56.4,1,11,38,0.0,0.0,OPTIMAL
+Ayudha Eye Care,Ayudha Eye Care,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.14,64.27,1,12,47,0.0,0.0,OPTIMAL
+BABAMANI ENTERPRISES Ngandla,BABAMANI ENTERPRISES Ngandla,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Intra State B2B,360,5,71.89,2156.7,1,361,2158,0.7,0.0,LOW STOCK
+BABAMANI ENTERPRISES Ngandla,BABAMANI ENTERPRISES Ngandla,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Intra State B2B,360,5,71.89,2156.7,1,361,2158,0.7,0.0,LOW STOCK
+BABAMANI ENTERPRISES Ngandla,BABAMANI ENTERPRISES Ngandla,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Intra State B2B,600,5,119.79,3593.7,1,600,3594,0.0,0.0,LOW STOCK
+BHAGWATI PLYWOOD & HARDWARE,BHAGWATI PLYWOOD & HARDWARE,BONDSET FAST SETTING 25 GM,BONDSET FAST SETTING 25 GM,Intra State B2B,300,5,59.88,1796.4,1,301,1798,0.36,0.0,LOW STOCK
+BHAGWATI PLYWOOD & HARDWARE,BHAGWATI PLYWOOD & HARDWARE,BONDSET SANITARY UNDER WATER 25 GM,BONDSET SANITARY UNDER WATER 25 GM,Intra State B2B,300,5,59.88,1796.4,1,301,1798,0.36,0.0,LOW STOCK
+BHAGWATI PLYWOOD & HARDWARE,BHAGWATI PLYWOOD & HARDWARE,BONDTITE FAST & CLEAR 180 GM,BONDTITE FAST & CLEAR 180 GM,Intra State B2B,60,5,11.94,358.2,1,61,360,8.99,0.0,LOW STOCK
+BHAGWATI PLYWOOD & HARDWARE,BHAGWATI PLYWOOD & HARDWARE,BONDTITE FAST & CLEAR 270 GM,BONDTITE FAST & CLEAR 270 GM,Intra State B2B,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+BHAGWATI PLYWOOD & HARDWARE,BHAGWATI PLYWOOD & HARDWARE,BONDTITE FAST & CLEAR 90 GM,BONDTITE FAST & CLEAR 90 GM,Intra State B2B,50,5,9.96,298.8,1,51,300,18.55,0.0,LOW STOCK
+BHAGWATI PLYWOOD & HARDWARE,BHAGWATI PLYWOOD & HARDWARE,RESIBOND NEUTRAL 3010 CLEAR 280 ML,RESIBOND NEUTRAL 3010 CLEAR 280 ML,Intra State B2B,120,5,24.0,720.0,1,121,721,50.0,0.0,LOW STOCK
+BL Agencies,BL Agencies,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Tag71,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+BL Agencies,BL Agencies,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,1.77,53.1,2,11,35,0.0,0.0,OPTIMAL
+BL Agencies,BL Agencies,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.94,58.2,1,11,40,0.0,0.0,OPTIMAL
+BL Agencies,BL Agencies,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.17,65.22,1,12,48,0.0,0.0,OPTIMAL
+BL Agencies,BL Agencies,Biofinity Energys  (3 lens pack) New,Biofinity Energys  (3 lens pack) New,Intra State B2B,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+BL Agencies,BL Agencies,Biofinity Energys New ( 3pk ),Biofinity Energys New ( 3pk ),Intra State B2B,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Bhagya Opticals- Chandanagar,Bhagya Opticals- Chandanagar,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Bhairav Opticals- Abids,Bhairav Opticals- Abids,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+Bhairav Opticals- Abids,Bhairav Opticals- Abids,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.68,50.25,1,10,31,0.0,0.0,OPTIMAL
+Byramji Eye Hospital,Byramji Eye Hospital,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.05,61.5,1,12,44,0.0,0.0,OPTIMAL
+Byramji Eye Hospital,Byramji Eye Hospital,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+Care Opticals W/M,Care Opticals W/M,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.79,53.7,1,10,34,0.0,0.0,OPTIMAL
+Care Opticals W/M,Care Opticals W/M,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.71,51.3,1,10,32,0.0,0.0,OPTIMAL
+Chashmawalas,Chashmawalas,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+Chashmawalas,Chashmawalas,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+Chashmawalas,Chashmawalas,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,1.82,54.6,1,11,36,0.0,0.0,OPTIMAL
+Chashmawalas,Chashmawalas,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.95,58.5,1,11,40,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,ASPIRE AIR (3 LENS PACK),ASPIRE AIR (3 LENS PACK),Intra State B2B,30,5,1.57,47.1,1,9,27,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.05,61.5,1,12,44,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,2.09,62.7,1,12,45,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.94,58.05,1,11,40,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Intra State B2B,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,3.27,98.05,9,26,95,0.37,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,Biotrue Solu - 60ml,Biotrue Solu - 60ml,Intra State B2B,180,5,35.76,1072.8,1,180,1073,0.0,0.0,LOW STOCK
+Clear Sight Optician,Clear Sight Optician,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,2.09,62.64,1,12,45,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,2.16,64.65,2,13,48,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,MY DAY TORIC TRAIL 1PK,MY DAY TORIC TRAIL 1PK,Intra State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+Clear Sight Optician,Clear Sight Optician,MY DAY TORIC TRAIL 5PK,MY DAY TORIC TRAIL 5PK,Tag71,130,5,25.77,773.1,1,130,774,0.0,0.0,LOW STOCK
+Clear Sight Optician,Clear Sight Optician,MY DAY TRAIL 1PK,MY DAY TRAIL 1PK,Intra State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,35,5,6.79,203.7,1,35,204,0.0,0.0,LOW STOCK
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Complaint Lenses to company,Complaint Lenses to company,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,140,5,27.8,834.0,1,140,834,0.0,0.0,LOW STOCK
+Complaint Lenses to company,Complaint Lenses to company,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,55,5,10.91,327.3,1,56,329,2.21,0.0,LOW STOCK
+Counter Sales,Counter Sales,ACUVUE OASYS 6pk,ACUVUE OASYS 6pk,Tag71,30,5,1.47,44.1,1,9,24,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Tag71,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,1.76,52.8,1,10,33,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.45,43.35,2,10,24,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Tag71,30,5,1.79,53.7,1,10,34,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.07,62.17,1,12,45,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,ASPIRE PRO TRAIL (1 LENS PACK),ASPIRE PRO TRAIL (1 LENS PACK),Tag71,30,5,8.12,243.45,31,72,286,71.7,0.0,CRITICAL STOCK
+Counter Sales,Counter Sales,Acuvue Oasys With Hydraluxe,Acuvue Oasys With Hydraluxe,Tag71,30,5,1.9,57.0,1,11,38,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Acuvue Vita For Astigmatism,Acuvue Vita For Astigmatism,Tag71,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Biofinity Energys New ( 3pk ),Biofinity Energys New ( 3pk ),Tag71,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.72,51.6,1,10,32,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Biotrue Solu - 60ml,Biotrue Solu - 60ml,Tag71,30,5,1.91,57.15,1,11,39,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Cooper BackPack,Cooper BackPack,Tag71,30,5,15.75,472.4,43,122,565,96.96,0.0,CRITICAL STOCK
+Counter Sales,Counter Sales,Cooper Luggage Bag,Cooper Luggage Bag,Tag71,30,5,2.21,66.43,1,13,50,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,1.83,54.75,1,11,36,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,RGB PREPRAZOR,RGB PREPRAZOR,Tag71,250,5,49.87,1496.1,1,251,1498,0.18,0.0,LOW STOCK
+Counter Sales,Counter Sales,Safe AQ Max I Meter,Safe AQ Max I Meter,Tag71,30,5,2.15,64.35,1,12,47,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Safe AQ Max I Strips Vial 100s,Safe AQ Max I Strips Vial 100s,Tag71,30,5,2.29,68.7,1,13,52,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Safe AQ Max III 25s Foil,Safe AQ Max III 25s Foil,Tag71,30,5,2.29,68.7,1,13,52,0.0,0.0,OPTIMAL
+Counter Sales,Counter Sales,Twist Sinodraw Lancet 28G 50s,Twist Sinodraw Lancet 28G 50s,Tag71,30,5,2.29,68.7,1,13,52,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE AIR (3 LENS PACK),ASPIRE AIR (3 LENS PACK),Tag71,30,5,1.56,46.8,1,9,26,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.7,51.08,1,10,32,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,3.55,106.56,9,27,104,1.14,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE AIR TRAIL (1 LENS PACK),ASPIRE AIR TRAIL (1 LENS PACK),Tag71,230,5,45.8,1374.0,1,230,1374,0.0,0.0,LOW STOCK
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.63,48.9,1,10,29,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Tag71,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,Biofinity Energys New ( 3pk ),Biofinity Energys New ( 3pk ),Tag71,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.72,51.6,1,10,32,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Tag71,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,MY DAY TRAIL 1PK,MY DAY TRAIL 1PK,Tag71,160,5,30.77,923.1,1,155,919,0.0,0.0,OPTIMAL
+Crystal Vision Center - Abids,Crystal Vision Center - Abids,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Tag71,30,5,1.92,57.75,1,11,39,0.0,0.0,OPTIMAL
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,11.24,337.2,42,99,407,84.83,0.0,CRITICAL STOCK
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,30,5,2.17,64.95,1,12,47,0.0,0.0,OPTIMAL
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.9,57.1,1,11,39,0.0,0.0,OPTIMAL
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.17,65.25,1,12,48,0.0,0.0,OPTIMAL
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,ASPIRE PRO TRAIL (1 LENS PACK),ASPIRE PRO TRAIL (1 LENS PACK),Intra State B2B,30,5,2.26,67.8,1,13,51,0.0,0.0,OPTIMAL
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.92,57.75,2,12,40,0.0,0.0,OPTIMAL
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,11.43,342.8,41,99,412,86.73,0.0,CRITICAL STOCK
+Crystal vision eye care--Madhapur,Crystal vision eye care--Madhapur,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.9,57.0,1,11,38,0.0,0.0,OPTIMAL
+DEVENDER GLASS PLYWOOD HARDWARE,DEVENDER GLASS PLYWOOD HARDWARE,RESIBOND GP 100 BLACK 260 ML,RESIBOND GP 100 BLACK 260 ML,Intra State B2B,120,5,23.91,717.3,1,121,719,2.21,0.0,LOW STOCK
+DEVENDER GLASS PLYWOOD HARDWARE,DEVENDER GLASS PLYWOOD HARDWARE,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Intra State B2B,120,5,24.0,720.0,1,121,721,50.0,0.0,LOW STOCK
+DEVENDER GLASS PLYWOOD HARDWARE,DEVENDER GLASS PLYWOOD HARDWARE,RESIBOND NEUTRAL 3010 CLEAR 280 ML,RESIBOND NEUTRAL 3010 CLEAR 280 ML,Intra State B2B,120,5,23.99,719.7,1,121,721,41.15,0.0,LOW STOCK
+DOLPHIN OPTICALS,DOLPHIN OPTICALS,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Inter State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+DOLPHIN OPTICALS,DOLPHIN OPTICALS,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Deepak Power Tools  KP,Deepak Power Tools  KP,BONDTITE FAST & CLEAR 1 KG (S),BONDTITE FAST & CLEAR 1 KG (S),Tag71,50,5,10.08,302.4,1,52,305,96.32,0.0,LOW STOCK
+Deepak Power Tools  KP,Deepak Power Tools  KP,BONDTITE FAST & CLEAR 270 GM,BONDTITE FAST & CLEAR 270 GM,Tag71,60,5,12.0,360.0,1,61,361,50.0,0.0,LOW STOCK
+Deepak Power Tools  KP,Deepak Power Tools  KP,BONDTITE FAST & CLEAR 450 GM (S),BONDTITE FAST & CLEAR 450 GM (S),Tag71,50,5,10.02,300.6,1,52,303,67.26,0.0,LOW STOCK
+Deepak Power Tools  KP,Deepak Power Tools  KP,BONDTITE SUPER STRENGTH 450 GM (S),BONDTITE SUPER STRENGTH 450 GM (S),Tag71,50,5,10.0,300.0,1,51,301,50.0,0.0,LOW STOCK
+Deepak Power Tools  KP,Deepak Power Tools  KP,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,600,5,119.79,3593.7,1,600,3594,0.0,0.0,LOW STOCK
+Deepak Power Tools  KP,Deepak Power Tools  KP,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Tag71,300,5,59.91,1797.3,1,301,1799,2.21,0.0,LOW STOCK
+Deepak Power Tools  KP,Deepak Power Tools  KP,VETRA SUPERFIX HV 703 125 GM,VETRA SUPERFIX HV 703 125 GM,Tag71,30,5,3.72,111.6,1,20,102,0.0,0.0,OPTIMAL
+Dr Venkat Rao,Dr Venkat Rao,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Tag71,30,5,1.94,58.2,1,11,40,0.0,0.0,OPTIMAL
+Dr Venkat Rao,Dr Venkat Rao,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+Dr Venkat Rao,Dr Venkat Rao,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,2.81,84.3,1,16,71,0.0,0.0,OPTIMAL
+EN Vision Lasik Eye Center,EN Vision Lasik Eye Center,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,40,5,15.73,471.75,43,122,554,93.36,0.0,CRITICAL STOCK
+EYE VALUE - Gachibowli,EYE VALUE - Gachibowli,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.95,58.5,1,11,40,0.0,0.0,OPTIMAL
+Elite Eye Hospital - Nallagandla,Elite Eye Hospital - Nallagandla,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),B2C Small,30,5,2.25,67.5,1,13,51,0.0,0.0,OPTIMAL
+Elite Eye Hospital - Nallagandla,Elite Eye Hospital - Nallagandla,MY DAY (30 LENS PK),MY DAY (30 LENS PK),B2C Small,30,5,1.99,59.8,1,11,41,0.0,0.0,OPTIMAL
+Expiry Stocks to Company,Expiry Stocks to Company,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.95,58.5,1,11,40,0.0,0.0,OPTIMAL
+Expiry Stocks to Company,Expiry Stocks to Company,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Expiry Stocks to Company,Expiry Stocks to Company,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Expiry Stocks to Company,Expiry Stocks to Company,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,285,5,56.82,1704.6,1,286,1706,0.0,0.0,LOW STOCK
+Expiry Stocks to Company,Expiry Stocks to Company,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,65,5,12.98,389.4,1,66,391,32.74,0.0,LOW STOCK
+Expiry Stocks to Company,Expiry Stocks to Company,Biofinity Energys New ( 3pk ),Biofinity Energys New ( 3pk ),Tag71,30,5,2.24,67.2,1,13,51,0.0,0.0,OPTIMAL
+Expiry Stocks to Company,Expiry Stocks to Company,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Tag71,185,5,36.9,1107.0,1,186,1108,1.27,0.0,LOW STOCK
+Expiry Stocks to Company,Expiry Stocks to Company,Biomedics Now (1lens Pk),Biomedics Now (1lens Pk),Tag71,155,5,30.9,927.0,1,156,928,1.27,0.0,LOW STOCK
+Eye 2 Eye Opticals KPHB,Eye 2 Eye Opticals KPHB,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Tag71,40,5,7.84,235.2,1,41,237,0.02,0.0,LOW STOCK
+Eye Care Hyderabad Super Speciality Eye Hospital,Eye Care Hyderabad Super Speciality Eye Hospital,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Tag71,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+Eye Care Hyderabad Super Speciality Eye Hospital,Eye Care Hyderabad Super Speciality Eye Hospital,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,50,5,4.9,147.1,18,43,141,0.72,0.0,OPTIMAL
+Eye Care Hyderabad Super Speciality Eye Hospital,Eye Care Hyderabad Super Speciality Eye Hospital,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.2,66.0,1,12,48,0.0,0.0,OPTIMAL
+Eye Care Opticals {Motinagar),Eye Care Opticals {Motinagar),ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+Eye Needs - Chandanagar,Eye Needs - Chandanagar,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.03,60.9,1,12,43,0.0,0.0,OPTIMAL
+Eye Needs - Chandanagar,Eye Needs - Chandanagar,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.15,64.5,1,12,47,0.0,0.0,OPTIMAL
+Eye Tech Optics P,Eye Tech Optics P,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Eye Tech Optics P,Eye Tech Optics P,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.19,65.7,1,12,48,0.0,0.0,OPTIMAL
+Eye Tech Optics P,Eye Tech Optics P,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.81,54.45,1,11,36,0.0,0.0,OPTIMAL
+Eye Tech Optics P,Eye Tech Optics P,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.41,72.41,1,14,57,0.0,0.0,OPTIMAL
+Eye Tech Optics P,Eye Tech Optics P,Biofinity Energys  (3 lens pack) New,Biofinity Energys  (3 lens pack) New,Intra State B2B,30,5,2.25,67.5,1,13,51,0.0,0.0,OPTIMAL
+Eye Tech Optics P,Eye Tech Optics P,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.73,51.9,1,10,32,0.0,0.0,OPTIMAL
+Eye Tech Optics P,Eye Tech Optics P,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.66,49.7,1,10,30,0.0,0.0,OPTIMAL
+Eye Wear opticals--Athapur,Eye Wear opticals--Athapur,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+Eye Wear opticals--Athapur,Eye Wear opticals--Athapur,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+Eyegear Optics India Private Limited,Eyegear Optics India Private Limited,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+Eyegear Optics India Private Limited,Eyegear Optics India Private Limited,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Eyeris Opticals (k),Eyeris Opticals (k),ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.09,62.7,1,12,45,0.0,0.0,OPTIMAL
+Eyezone Opticals,Eyezone Opticals,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,30,5,2.19,65.55,1,12,48,0.0,0.0,OPTIMAL
+Eyezone Opticals,Eyezone Opticals,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Tag71,30,5,14.14,424.3,38,109,504,96.37,0.0,CRITICAL STOCK
+Focus Optical Motinagar,Focus Optical Motinagar,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.6,78.0,1,14,62,0.0,0.0,OPTIMAL
+Focus Optical Motinagar,Focus Optical Motinagar,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+GANESH ENTERPRISES,GANESH ENTERPRISES,BONDSET FAST SETTING 60 GM,BONDSET FAST SETTING 60 GM,Intra State B2B,170,5,33.9,1017.0,1,171,1018,1.27,0.0,LOW STOCK
+GANESH ENTERPRISES,GANESH ENTERPRISES,BONDSET SANITARY UNDER WATER 25 GM,BONDSET SANITARY UNDER WATER 25 GM,Intra State B2B,300,5,59.8,1794.0,1,300,1794,0.0,0.0,LOW STOCK
+GANESH ENTERPRISES,GANESH ENTERPRISES,RESIBOND BATHMATE 150GM TUBE,RESIBOND BATHMATE 150GM TUBE,Intra State B2B,50,5,9.81,294.3,1,51,296,0.0,0.0,LOW STOCK
+GANESH ENTERPRISES,GANESH ENTERPRISES,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Intra State B2B,100,5,20.03,600.9,1,102,603,74.88,0.0,LOW STOCK
+GLOBAL MEDIQUIPS,GLOBAL MEDIQUIPS,Safe AQ Max III 50s Foil,Safe AQ Max III 50s Foil,Intra State B2B,150,5,30.11,903.3,1,152,906,97.34,0.0,LOW STOCK
+GLOBAL MEDIQUIPS,GLOBAL MEDIQUIPS,Safe AQ Max III Meter,Safe AQ Max III Meter,Intra State B2B,150,5,30.08,902.25,1,152,905,95.32,0.0,LOW STOCK
+Ganapathi Hardware & Tools,Ganapathi Hardware & Tools,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,Intra State B2B,30,5,2.13,63.9,1,12,46,0.0,0.0,OPTIMAL
+Ganapathi Hardware & Tools,Ganapathi Hardware & Tools,FILLX ULTRA 2K IRON GRAY 1KG,FILLX ULTRA 2K IRON GRAY 1KG,Intra State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Ganapathi Hardware & Tools,Ganapathi Hardware & Tools,FILLX ULTRA 2K PURE WHITE 1 KG,FILLX ULTRA 2K PURE WHITE 1 KG,Intra State B2B,30,5,2.13,63.9,1,12,46,0.0,0.0,OPTIMAL
+Ganapathi Hardware & Tools,Ganapathi Hardware & Tools,FILLX ULTRA 2K SIGNAL BLACK 1 KG,FILLX ULTRA 2K SIGNAL BLACK 1 KG,Intra State B2B,30,5,2.13,63.9,1,12,46,0.0,0.0,OPTIMAL
+Ganesh Plywood & Hardware,Ganesh Plywood & Hardware,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Tag71,1600,5,319.68,9590.4,1,1600,9591,0.0,0.0,LOW STOCK
+Gourav Trade Link  KPHB,Gourav Trade Link  KPHB,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Tag71,240,5,47.9,1437.0,1,241,1438,1.27,0.0,LOW STOCK
+Gourav Trade Link  KPHB,Gourav Trade Link  KPHB,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Tag71,240,5,47.9,1437.0,1,241,1438,1.27,0.0,LOW STOCK
+Gourav Trade Link  KPHB,Gourav Trade Link  KPHB,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,600,5,119.79,3593.7,1,600,3594,0.0,0.0,LOW STOCK
+Gourav Trade Link  KPHB,Gourav Trade Link  KPHB,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Tag71,300,5,59.91,1797.3,1,301,1799,2.21,0.0,LOW STOCK
+Hanuman Glass Plywood & Hardware,Hanuman Glass Plywood & Hardware,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,100,5,20.09,602.7,1,102,605,97.79,0.0,LOW STOCK
+Hill Traders,Hill Traders,BONDSET FAST SETTING 60 GM,BONDSET FAST SETTING 60 GM,Tag71,170,5,33.95,1018.5,1,171,1020,13.18,0.0,LOW STOCK
+Hill Traders,Hill Traders,BONDSET SANITARY UNDER WATER 60 GM,BONDSET SANITARY UNDER WATER 60 GM,Tag71,170,5,33.95,1018.5,1,171,1020,13.18,0.0,LOW STOCK
+Hill Traders,Hill Traders,BONDSET WHITE 25 GM,BONDSET WHITE 25 GM,Tag71,300,5,59.85,1795.5,1,301,1797,0.04,0.0,LOW STOCK
+Hill Traders,Hill Traders,BONDTITE FAST & CLEAR 36 GM,BONDTITE FAST & CLEAR 36 GM,Tag71,60,5,11.99,359.7,1,61,361,41.15,0.0,LOW STOCK
+Hill Traders,Hill Traders,BONDTITE FAST & CLEAR 450 GM (S),BONDTITE FAST & CLEAR 450 GM (S),Tag71,30,5,2.19,65.7,1,12,48,0.0,0.0,OPTIMAL
+Hill Traders,Hill Traders,BONDTITE FAST & CLEAR 90 GM,BONDTITE FAST & CLEAR 90 GM,Tag71,50,5,10.01,300.3,1,52,303,58.85,0.0,LOW STOCK
+Hill Traders,Hill Traders,EZY DRAIN CLEANER 40 GM JAR,EZY DRAIN CLEANER 40 GM JAR,Tag71,250,5,49.61,1488.3,1,250,1489,0.0,0.0,LOW STOCK
+Hill Traders,Hill Traders,FILLX ULTRA 2K IRON GRAY 1KG,FILLX ULTRA 2K IRON GRAY 1KG,Tag71,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Hill Traders,Hill Traders,FILLX ULTRA 2K PURE WHITE 1 KG,FILLX ULTRA 2K PURE WHITE 1 KG,Tag71,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+Hill Traders,Hill Traders,FILLX ULTRA 2K SIGNAL BLACK 1 KG,FILLX ULTRA 2K SIGNAL BLACK 1 KG,Tag71,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+Hill Traders,Hill Traders,RESIBOND GP 100 BLACK 260 ML,RESIBOND GP 100 BLACK 260 ML,Tag71,60,5,12.02,360.6,1,62,363,67.26,0.0,LOW STOCK
+Hill Traders,Hill Traders,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Tag71,120,5,24.05,721.5,1,122,724,86.82,0.0,LOW STOCK
+Hill Traders,Hill Traders,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Tag71,120,5,24.0,720.0,1,121,721,50.0,0.0,LOW STOCK
+Hill Traders,Hill Traders,RESITAPE PVC TAPE BLACK 17MM X 6 MTR,RESITAPE PVC TAPE BLACK 17MM X 6 MTR,Tag71,150,5,29.98,899.4,1,151,901,32.74,0.0,LOW STOCK
+Hill Traders,Hill Traders,RESITAPE PVC TAPE RED 17MM X 6 MTR,RESITAPE PVC TAPE RED 17MM X 6 MTR,Tag71,150,5,29.98,899.4,1,151,901,32.74,0.0,LOW STOCK
+Hill Traders,Hill Traders,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,100,5,20.1,603.0,1,102,605,98.73,0.0,LOW STOCK
+Hill Traders,Hill Traders,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Tag71,200,5,39.93,1197.9,1,201,1199,5.88,0.0,LOW STOCK
+Hill Traders,Hill Traders,VETRA LV (401) 50 GM (SHEME),VETRA LV (401) 50 GM (SHEME),Tag71,100,5,20.08,602.4,1,102,605,96.32,0.0,LOW STOCK
+Hill Traders,Hill Traders,VETRA SUPERFIX HV 703 125 GM,VETRA SUPERFIX HV 703 125 GM,Tag71,30,5,3.71,111.3,1,20,102,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute - Hospital Supply,Hyderabad Eye Institute - Hospital Supply,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,385,5,76.78,2303.4,1,385,2304,0.0,0.0,LOW STOCK
+Hyderabad Eye Institute - Kadappa,Hyderabad Eye Institute - Kadappa,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,30,5,2.47,74.1,1,14,59,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute - kismathpur,Hyderabad Eye Institute - kismathpur,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.54,76.05,1,14,61,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vijayawada,Hyderabad Eye Institute- Vijayawada,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Inter State B2B,30,5,2.4,72.0,1,13,55,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vijayawada,Hyderabad Eye Institute- Vijayawada,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Inter State B2B,30,5,2.5,75.0,1,14,59,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vijayawada,Hyderabad Eye Institute- Vijayawada,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Inter State B2B,30,5,2.55,76.5,1,14,61,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vijayawada,Hyderabad Eye Institute- Vijayawada,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,40,5,10.09,302.55,11,62,325,94.65,0.0,LOW STOCK
+Hyderabad Eye Institute- Vijayawada,Hyderabad Eye Institute- Vijayawada,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Inter State B2B,30,5,2.69,80.7,1,15,66,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vijayawada,Hyderabad Eye Institute- Vijayawada,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Inter State B2B,30,5,2.56,76.8,1,14,61,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,ASPIRE AIR (3 LENS PACK),ASPIRE AIR (3 LENS PACK),Inter State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Inter State B2B,30,5,2.03,60.9,2,13,44,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Inter State B2B,30,5,2.56,76.8,1,14,61,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Inter State B2B,30,5,2.4,72.0,1,13,55,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Inter State B2B,35,5,7.08,212.55,1,37,215,97.13,0.0,LOW STOCK
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Inter State B2B,30,5,2.55,76.5,1,14,61,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,65,5,18.05,541.35,27,118,595,94.27,0.0,LOW STOCK
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Inter State B2B,30,5,2.69,80.7,1,15,66,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Inter State B2B,135,5,20.55,616.65,29,132,614,2.99,0.0,OPTIMAL
+Hyderabad Eye Institute- Vizag,Hyderabad Eye Institute- Vizag,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Inter State B2B,30,5,2.34,70.2,1,13,54,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,2.5,75.0,1,14,59,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,2.4,72.0,1,13,55,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,95,5,21.51,645.3,14,122,673,94.16,0.0,LOW STOCK
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,185,5,30.41,912.45,34,187,915,5.26,0.0,LOW STOCK
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,395,5,70.56,2116.95,35,388,2110,2.22,0.0,OPTIMAL
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,225,5,31.72,951.45,65,224,951,4.39,0.0,OPTIMAL
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,210,5,42.12,1263.6,10,221,1275,54.17,0.0,LOW STOCK
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,2.15,64.5,1,12,47,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,2.24,67.2,1,13,51,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-B.H,Hyderabad Eye Institute-B.H,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Intra State B2B,30,5,2.49,74.55,1,14,59,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-Bhubaneswar,Hyderabad Eye Institute-Bhubaneswar,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Inter State B2B,30,5,2.75,82.5,1,15,68,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-Bhubaneswar,Hyderabad Eye Institute-Bhubaneswar,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Inter State B2B,30,5,2.74,82.2,1,15,68,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-Bhubaneswar,Hyderabad Eye Institute-Bhubaneswar,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,30,5,2.54,76.05,1,14,61,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-Bhubaneswar,Hyderabad Eye Institute-Bhubaneswar,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Inter State B2B,30,5,2.87,86.1,1,16,73,0.0,0.0,OPTIMAL
+Hyderabad Eye Institute-Bhubaneswar,Hyderabad Eye Institute-Bhubaneswar,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Inter State B2B,80,5,16.14,484.2,1,82,487,99.91,0.0,LOW STOCK
+Hyderabed Eye Institute - Kondapur,Hyderabed Eye Institute - Kondapur,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.41,72.3,1,14,57,0.0,0.0,OPTIMAL
+Hyderabed Eye Institute - Kondapur,Hyderabed Eye Institute - Kondapur,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,2.81,84.3,1,16,71,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,BONDTITE FAST & CLEAR 13 GM,BONDTITE FAST & CLEAR 13 GM,Intra State B2B,125,5,24.93,747.9,1,126,749,5.88,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,BONDTITE FAST & CLEAR 180 GM,BONDTITE FAST & CLEAR 180 GM,Intra State B2B,30,5,2.11,63.3,1,12,46,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,BONDTITE FAST & CLEAR 270 GM,BONDTITE FAST & CLEAR 270 GM,Intra State B2B,30,5,2.11,63.3,1,12,46,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,BONDTITE FAST & CLEAR 36 GM,BONDTITE FAST & CLEAR 36 GM,Intra State B2B,60,5,11.93,357.9,1,61,359,5.88,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,EZY DRAIN CLEANER 40 GM JAR,EZY DRAIN CLEANER 40 GM JAR,Intra State B2B,250,5,49.58,1487.4,1,249,1487,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX FILLER COAL BLACK 3.75 KG,FILLX FILLER COAL BLACK 3.75 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX FILLER IVORY 3.75 KG,FILLX FILLER IVORY 3.75 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX FILLER JADE WHITE 3.75 KG,FILLX FILLER JADE WHITE 3.75 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX FILLER MIDNIGHT GREY 3.75 KG,FILLX FILLER MIDNIGHT GREY 3.75 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX SFEG RESIN KIT 1.25KG,FILLX SFEG RESIN KIT 1.25KG,Intra State B2B,80,5,15.6,468.0,1,79,467,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX ULTRA 2K DUSTY GREY 1 KG,FILLX ULTRA 2K DUSTY GREY 1 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX ULTRA 2K LIGHT IVORY 1KG,FILLX ULTRA 2K LIGHT IVORY 1KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX ULTRA 2K LIGHT IVORY 5 KG,FILLX ULTRA 2K LIGHT IVORY 5 KG,Intra State B2B,30,5,1.65,49.5,1,10,30,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX ULTRA 2K SIGNAL BLACK 1 KG,FILLX ULTRA 2K SIGNAL BLACK 1 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,FILLX ULTRA 2K SIGNAL BLACK 5KG,FILLX ULTRA 2K SIGNAL BLACK 5KG,Intra State B2B,30,5,1.65,49.5,1,10,30,0.0,0.0,OPTIMAL
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,RESIBOND BATHMATE 150GM TUBE,RESIBOND BATHMATE 150GM TUBE,Intra State B2B,150,5,29.72,891.6,1,150,892,0.0,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,RESIBOND GP 100 BLACK 260 ML,RESIBOND GP 100 BLACK 260 ML,Intra State B2B,120,5,23.98,719.4,1,121,721,32.74,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Intra State B2B,240,5,47.91,1437.3,1,241,1439,2.21,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Intra State B2B,120,5,24.08,722.4,1,122,725,96.32,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,SOLVOBOND UPVC 606 100ML,SOLVOBOND UPVC 606 100ML,Intra State B2B,60,5,12.12,363.6,1,62,366,99.64,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,SOLVOBOND UPVC 606 50ML,SOLVOBOND UPVC 606 50ML,Intra State B2B,120,5,24.05,721.5,1,122,724,86.82,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Intra State B2B,600,5,119.79,3593.7,1,600,3594,0.0,0.0,LOW STOCK
+Jagadamba Sanitary & Electricals K.Nagar,Jagadamba Sanitary & Electricals K.Nagar,VETRA LV (401) 50 GM (SHEME),VETRA LV (401) 50 GM (SHEME),Intra State B2B,200,5,39.95,1198.5,1,201,1200,13.18,0.0,LOW STOCK
+Jai Bhavani Plywood & Hardware,Jai Bhavani Plywood & Hardware,BONDSET FAST SETTING 25 GM,BONDSET FAST SETTING 25 GM,Tag71,600,5,119.71,3591.3,1,600,3592,0.0,0.0,LOW STOCK
+Jain Opticals Vijayawada,Jain Opticals Vijayawada,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Inter State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+Jain Opticals Vijayawada,Jain Opticals Vijayawada,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Inter State B2B,30,5,1.9,57.0,2,12,39,0.0,0.0,OPTIMAL
+Jain Opticals Vijayawada,Jain Opticals Vijayawada,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Inter State B2B,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Jain Opticals Vijayawada,Jain Opticals Vijayawada,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Inter State B2B,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+K.R.Reddy Opticalss-Kothapet,K.R.Reddy Opticalss-Kothapet,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,1.76,52.8,1,10,33,0.0,0.0,OPTIMAL
+K.R.Reddy Opticalss-Kothapet,K.R.Reddy Opticalss-Kothapet,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,50,5,6.03,180.75,21,52,183,5.24,0.0,LOW STOCK
+K.R.Reddy Opticalss-Kothapet,K.R.Reddy Opticalss-Kothapet,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,2.01,60.3,1,12,43,0.0,0.0,OPTIMAL
+K.R.Reddy Opticalss-Kothapet,K.R.Reddy Opticalss-Kothapet,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,2.02,60.75,1,12,43,0.0,0.0,OPTIMAL
+K.R.Reddy Opticalss-Kothapet,K.R.Reddy Opticalss-Kothapet,Biomedics Now (6 Lens pack),Biomedics Now (6 Lens pack),Intra State B2B,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,BONDTITE FAST & CLEAR 1 KG (S),BONDTITE FAST & CLEAR 1 KG (S),Intra State B2B,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,BONDTITE FAST & CLEAR 450 GM (S),BONDTITE FAST & CLEAR 450 GM (S),Intra State B2B,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,BONDTITE SUPER STRENGTH 1.8 KG (S),BONDTITE SUPER STRENGTH 1.8 KG (S),Intra State B2B,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,BONDTITE SUPER STRENGTH 450 GM (S),BONDTITE SUPER STRENGTH 450 GM (S),Intra State B2B,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,FILLX SFEG RESIN KIT 1.25KG,FILLX SFEG RESIN KIT 1.25KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,FILLX ULTRA 2K IRON GRAY 1KG,FILLX ULTRA 2K IRON GRAY 1KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,FILLX ULTRA 2K SIGNAL BLACK 1 KG,FILLX ULTRA 2K SIGNAL BLACK 1 KG,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+KHATU SHYAM STONE TOOLS AND CHEMICALS,KHATU SHYAM STONE TOOLS AND CHEMICALS,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Intra State B2B,500,5,99.79,2993.7,1,500,2994,0.0,0.0,LOW STOCK
+KSR EYE WEAR -B.H,KSR EYE WEAR -B.H,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.95,58.5,1,11,40,0.0,0.0,OPTIMAL
+KSR EYE WEAR -B.H,KSR EYE WEAR -B.H,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+KSR EYE WEAR -B.H,KSR EYE WEAR -B.H,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.88,56.4,1,11,38,0.0,0.0,OPTIMAL
+KSR EYE WEAR -B.H,KSR EYE WEAR -B.H,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.42,72.75,1,14,57,0.0,0.0,OPTIMAL
+KSR EYE WEAR -B.H,KSR EYE WEAR -B.H,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,1.84,55.2,1,11,37,0.0,0.0,OPTIMAL
+KSR EYE WEAR -B.H,KSR EYE WEAR -B.H,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.72,51.67,1,10,32,0.0,0.0,OPTIMAL
+KSR EYE WEAR -B.H,KSR EYE WEAR -B.H,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.81,54.3,1,11,36,0.0,0.0,OPTIMAL
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,ACUVUE OASYS 6pk,ACUVUE OASYS 6pk,Inter State B2B,35,5,16.25,487.35,50,132,585,93.72,0.0,CRITICAL STOCK
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,Acuvue Moist For Lacreon,Acuvue Moist For Lacreon,Inter State B2B,30,5,2.23,66.9,1,13,50,0.0,0.0,OPTIMAL
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,Acuvue Vita For Astigmatism,Acuvue Vita For Astigmatism,Inter State B2B,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,MOIST 1 DAY ACUVUE 30PK,MOIST 1 DAY ACUVUE 30PK,Inter State B2B,700,5,84.05,2521.5,261,682,2504,3.89,0.0,OPTIMAL
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,PV 2 Spherical 6 Lens pack,PV 2 Spherical 6 Lens pack,Inter State B2B,185,5,36.83,1104.9,1,186,1106,0.01,0.0,LOW STOCK
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,SL Toric 6 Lens Packs,SL Toric 6 Lens Packs,Inter State B2B,30,5,20.12,603.45,88,189,763,90.65,0.0,CRITICAL STOCK
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,SL59,SL59,Inter State B2B,45,5,9.1,273.0,1,47,275,98.73,0.0,LOW STOCK
+Krishna Ecommerce Technologies Private Limited - Gurugram,Krishna Ecommerce Technologies Private Limited - Gurugram,pv-2 toric,pv-2 toric,Inter State B2B,30,5,2.37,71.1,1,13,55,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,30,5,1.98,59.4,1,11,41,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.98,59.25,1,11,41,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,1.84,55.35,1,11,37,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.95,58.5,1,11,40,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Intra State B2B,30,5,2.0,60.0,1,11,41,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,40,5,2.94,88.05,8,23,72,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,ASPIRE PRO TRAIL (1 LENS PACK),ASPIRE PRO TRAIL (1 LENS PACK),Intra State B2B,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,2.38,71.4,1,13,55,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Intra State B2B,30,5,2.17,65.1,1,12,48,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,Clarity 1Day MF 1Pk Trail,Clarity 1Day MF 1Pk Trail,Intra State B2B,30,5,2.21,66.3,1,13,50,0.0,0.0,OPTIMAL
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,6.81,204.4,42,77,252,56.44,0.0,CRITICAL STOCK
+Ksr Eyecare Private Limited- Jublihills,Ksr Eyecare Private Limited- Jublihills,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,2.16,64.85,1,12,47,0.0,0.0,OPTIMAL
+LALITA BIOSCIENCES,LALITA BIOSCIENCES,Safe AQ Max I Meter,Safe AQ Max I Meter,Intra State B2B,30,5,2.38,71.4,1,13,55,0.0,0.0,OPTIMAL
+LALITA BIOSCIENCES,LALITA BIOSCIENCES,Safe AQ Max I Strips Vial 100s,Safe AQ Max I Strips Vial 100s,Intra State B2B,30,5,2.38,71.4,1,13,55,0.0,0.0,OPTIMAL
+LVP KISMTHPUR,LVP KISMTHPUR,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.48,74.4,1,14,59,0.0,0.0,OPTIMAL
+LVP KISMTHPUR,LVP KISMTHPUR,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Tag71,30,5,2.13,63.9,1,12,46,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,2.14,64.12,1,12,47,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,2.11,63.4,1,12,46,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.2,66.14,1,13,50,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,35,5,2.8,83.94,6,20,69,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,50,5,5.34,160.18,13,40,151,0.11,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,ASPIRE PRO TORIC TRAIL (1 LENS PACK),ASPIRE PRO TORIC TRAIL (1 LENS PACK),Tag71,30,5,2.32,69.6,1,13,53,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,6.65,199.52,26,60,230,58.21,0.0,LOW STOCK
+LVPEI - BHILLS,LVPEI - BHILLS,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,3.59,107.68,11,29,107,2.82,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,2.13,63.9,1,12,46,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,2.16,64.8,1,12,47,0.0,0.0,OPTIMAL
+LVPEI - BHILLS,LVPEI - BHILLS,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Tag71,30,5,2.27,68.06,1,13,52,0.0,0.0,OPTIMAL
+LVPEI - KADAPA,LVPEI - KADAPA,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+LVPEI - MADHAPUR,LVPEI - MADHAPUR,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.42,72.6,1,14,57,0.0,0.0,OPTIMAL
+LVPEI - MADHAPUR,LVPEI - MADHAPUR,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.25,67.5,1,13,51,0.0,0.0,OPTIMAL
+LVPEI - MADHAPUR,LVPEI - MADHAPUR,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,2.61,78.3,1,15,64,0.0,0.0,OPTIMAL
+LVPEI- Vijayawads,LVPEI- Vijayawads,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,2.03,60.8,1,12,43,0.0,0.0,OPTIMAL
+LVPEI- Vijayawads,LVPEI- Vijayawads,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.03,60.85,1,12,43,0.0,0.0,OPTIMAL
+LVPEI- Vijayawads,LVPEI- Vijayawads,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.95,58.63,1,11,40,0.0,0.0,OPTIMAL
+LVPEI- Vijayawads,LVPEI- Vijayawads,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.43,72.93,1,14,57,0.0,0.0,OPTIMAL
+LVPEI- Vijayawads,LVPEI- Vijayawads,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,2.15,64.5,1,12,47,0.0,0.0,OPTIMAL
+LVPEI- Vijayawads,LVPEI- Vijayawads,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,2.13,63.86,1,12,46,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.69,50.7,1,10,31,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,2.0,60.0,1,11,41,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Tag71,30,5,2.06,61.8,1,12,44,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,2.01,60.45,1,12,43,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.06,61.89,1,12,44,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,2.12,63.69,1,12,46,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.98,89.48,5,20,80,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,2.15,64.5,1,12,47,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,2.66,79.69,6,20,70,0.0,0.0,OPTIMAL
+LVPI - Vizag,LVPI - Vizag,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+LVPI- Bubaneshwar,LVPI- Bubaneshwar,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.83,54.9,1,11,36,0.0,0.0,OPTIMAL
+LVPI- Bubaneshwar,LVPI- Bubaneshwar,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,1.93,57.75,1,11,39,0.0,0.0,OPTIMAL
+LVPI- Bubaneshwar,LVPI- Bubaneshwar,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,2.04,61.35,1,12,44,0.0,0.0,OPTIMAL
+LVPI- Bubaneshwar,LVPI- Bubaneshwar,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.09,62.7,1,12,45,0.0,0.0,OPTIMAL
+LVPI- Bubaneshwar,LVPI- Bubaneshwar,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,2.33,69.9,1,13,53,0.0,0.0,OPTIMAL
+LVPI- Bubaneshwar,LVPI- Bubaneshwar,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,2.4,72.11,1,14,57,0.0,0.0,OPTIMAL
+LVPI- Bubaneshwar,LVPI- Bubaneshwar,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+Lalitha Spectacles Eye Design - Moosarambagh,Lalitha Spectacles Eye Design - Moosarambagh,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Lalitha Spectacles Eye Design - Moosarambagh,Lalitha Spectacles Eye Design - Moosarambagh,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+Laxmi Paint House,Laxmi Paint House,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Intra State B2B,200,5,39.9,1197.0,1,201,1198,1.27,0.0,LOW STOCK
+Laxmi Paint House,Laxmi Paint House,VETRA LV (401) 50 GM (SHEME),VETRA LV (401) 50 GM (SHEME),Intra State B2B,200,5,39.9,1197.0,1,201,1198,1.27,0.0,LOW STOCK
+Liberty (abids),Liberty (abids),Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+MAHADEV OPTICALS - KARIMNAGAR,MAHADEV OPTICALS - KARIMNAGAR,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,1.57,47.1,1,9,27,0.0,0.0,OPTIMAL
+MAHADEV OPTICALS - KARIMNAGAR,MAHADEV OPTICALS - KARIMNAGAR,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+MAHADEV OPTICALS - KARIMNAGAR,MAHADEV OPTICALS - KARIMNAGAR,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Tag71,30,5,1.98,59.4,1,11,41,0.0,0.0,OPTIMAL
+MAHADEV OPTICALS - KARIMNAGAR,MAHADEV OPTICALS - KARIMNAGAR,Clarity 1Day 1Pk Trails,Clarity 1Day 1Pk Trails,Intra State B2B,200,5,39.9,1197.0,1,201,1198,1.27,0.0,LOW STOCK
+MAHADEV OPTICALS - KARIMNAGAR,MAHADEV OPTICALS - KARIMNAGAR,Courier Chargers,Courier Chargers,Tag71,30,5,1.59,47.7,1,9,27,0.0,0.0,OPTIMAL
+MAHADEV OPTICALS - KARIMNAGAR,MAHADEV OPTICALS - KARIMNAGAR,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,2.19,65.7,1,12,48,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE AIR (3 LENS PACK),ASPIRE AIR (3 LENS PACK),Intra State B2B,30,5,1.35,40.65,1,8,19,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,1.38,41.25,1,8,20,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,40,5,8.24,247.2,69,111,319,51.16,0.0,CRITICAL STOCK
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE AIR TORIC TRAIL (1 LENS PACK),ASPIRE AIR TORIC TRAIL (1 LENS PACK),Intra State B2B,30,5,2.0,60.0,1,11,41,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Intra State B2B,45,5,8.73,261.9,1,45,262,0.0,0.0,LOW STOCK
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,2.13,63.8,1,12,46,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,2.91,87.3,10,25,83,0.47,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,1.81,54.41,1,11,36,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.98,59.55,1,11,41,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,2.03,60.96,1,12,43,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Intra State B2B,30,5,2.01,60.26,1,12,43,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,1.95,58.5,1,11,40,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,ASPIRE PRO TRAIL (1 LENS PACK),ASPIRE PRO TRAIL (1 LENS PACK),Intra State B2B,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Biofinity Energys  (3 lens pack) New,Biofinity Energys  (3 lens pack) New,Intra State B2B,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.76,52.65,1,10,33,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Intra State B2B,30,5,1.97,59.2,1,11,41,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Biomedics Now (1lens Pk),Biomedics Now (1lens Pk),Intra State B2B,1300,5,259.76,7792.8,1,1300,7793,0.0,0.0,LOW STOCK
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Intra State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Clarity 1Day MF 1Pk Trail,Clarity 1Day MF 1Pk Trail,Intra State B2B,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Coupoun Air Toric,Coupoun Air Toric,Intra State B2B,335,5,8.67,260.1,76,120,46,0.0,4.3,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Coupoun Pro Toric,Coupoun Pro Toric,Tag71,30,5,3.98,119.25,29,49,139,27.82,0.0,LOW STOCK
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,1.98,59.3,1,11,41,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,2.02,60.75,1,12,43,0.0,0.0,OPTIMAL
+MAHAVIR OPTICS - ABIDS,MAHAVIR OPTICS - ABIDS,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Intra State B2B,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+MARTHALA HOSPITALS PVT LTD,MARTHALA HOSPITALS PVT LTD,RGB PREPRAZOR,RGB PREPRAZOR,Intra State B2B,500,5,99.81,2994.3,1,501,2996,0.0,0.0,LOW STOCK
+MAXIVISIO SUPER SPECIALITY EYE HOSPITAL - Vanastalipuram,MAXIVISIO SUPER SPECIALITY EYE HOSPITAL - Vanastalipuram,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Intra State B2B,30,5,2.33,69.9,1,13,53,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Madhapur,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Madhapur,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.22,66.6,1,13,50,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Madhapur,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Madhapur,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.92,57.6,2,12,40,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Tag71,30,5,1.88,56.4,2,12,39,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,1.93,57.98,2,12,40,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,3.78,113.3,10,29,113,2.75,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.83,54.9,1,11,36,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.67,50.1,1,10,31,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MAXIVISION SUPER SPECIALITY EYE HOSPITALS - Somajiguda,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.59,47.85,1,9,27,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS-AS Rao Nagar,MAXIVISION SUPER SPECIALITY EYE HOSPITALS-AS Rao Nagar,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.1,63.15,1,12,46,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS-AS Rao Nagar,MAXIVISION SUPER SPECIALITY EYE HOSPITALS-AS Rao Nagar,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+MAXIVISION SUPER SPECIALITY EYE HOSPITALS-AS Rao Nagar,MAXIVISION SUPER SPECIALITY EYE HOSPITALS-AS Rao Nagar,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Maa Netralaya - Vizag,Maa Netralaya - Vizag,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.8,54.0,1,10,34,0.0,0.0,OPTIMAL
+Maa Netralaya - Vizag,Maa Netralaya - Vizag,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.64,49.05,1,10,30,0.0,0.0,OPTIMAL
+Maa Netralaya - Vizag,Maa Netralaya - Vizag,Courier Chargers,Courier Chargers,Tag71,30,5,1.56,46.95,1,9,26,0.0,0.0,OPTIMAL
+Mahalaxmi Enterprises,Mahalaxmi Enterprises,BONDTITE FAST & CLEAR 1 KG (S),BONDTITE FAST & CLEAR 1 KG (S),Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Mahalaxmi Enterprises,Mahalaxmi Enterprises,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Intra State B2B,700,5,119.72,3591.6,1,600,3492,0.0,0.0,OPTIMAL
+Mukunda Opticians,Mukunda Opticians,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,5.84,175.2,21,51,197,47.49,0.0,LOW STOCK
+Mukunda Opticians,Mukunda Opticians,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+Mukunda Opticians,Mukunda Opticians,Coupoun Pro Toric,Coupoun Pro Toric,Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+Mukunda Opticians,Mukunda Opticians,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,1.97,59.1,1,11,41,0.0,0.0,OPTIMAL
+N-Vision,N-Vision,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Tag71,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+N-Vision,N-Vision,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+NEW ARIHANT OPTICIANS - Himayatnagar,NEW ARIHANT OPTICIANS - Himayatnagar,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,1.77,53.25,1,10,34,0.0,0.0,OPTIMAL
+NEW ARIHANT OPTICIANS - Himayatnagar,NEW ARIHANT OPTICIANS - Himayatnagar,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+NEW ARIHANT OPTICIANS - Himayatnagar,NEW ARIHANT OPTICIANS - Himayatnagar,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.79,53.7,1,10,34,0.0,0.0,OPTIMAL
+NEW ARIHANT OPTICIANS - Himayatnagar,NEW ARIHANT OPTICIANS - Himayatnagar,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.15,64.38,1,12,47,0.0,0.0,OPTIMAL
+NEW ARIHANT OPTICIANS - Himayatnagar,NEW ARIHANT OPTICIANS - Himayatnagar,ASPIRE PRO TORIC TRAIL (1 LENS PACK),ASPIRE PRO TORIC TRAIL (1 LENS PACK),Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+NEW ARIHANT OPTICIANS - Himayatnagar,NEW ARIHANT OPTICIANS - Himayatnagar,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Intra State B2B,30,5,1.98,59.4,1,11,41,0.0,0.0,OPTIMAL
+Neo Vision Habsiguda,Neo Vision Habsiguda,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,1.79,53.7,1,10,34,0.0,0.0,OPTIMAL
+New Orient Opticals,New Orient Opticals,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Tag71,100,5,19.81,594.3,1,101,596,0.0,0.0,LOW STOCK
+Noble Health Care,Noble Health Care,Safe AQ Max I Meter,Safe AQ Max I Meter,Intra State B2B,50,5,6.32,189.45,20,52,192,5.99,0.0,LOW STOCK
+Noble Health Care,Noble Health Care,Safe AQ Max I Strips Vial 100s,Safe AQ Max I Strips Vial 100s,Intra State B2B,150,5,29.95,898.5,1,151,900,13.18,0.0,LOW STOCK
+OPTICA VISION MATTERS - West Maredpally,OPTICA VISION MATTERS - West Maredpally,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.93,57.9,1,11,39,0.0,0.0,OPTIMAL
+OPTICA VISION MATTERS - West Maredpally,OPTICA VISION MATTERS - West Maredpally,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.81,54.3,1,11,36,0.0,0.0,OPTIMAL
+OPTICA VISION MATTERS - West Maredpally,OPTICA VISION MATTERS - West Maredpally,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,125,5,14.25,427.56,65,137,440,8.49,0.0,LOW STOCK
+OPTICA VISION MATTERS - West Maredpally,OPTICA VISION MATTERS - West Maredpally,Biofinity Multifocal Torics 3Pk,Biofinity Multifocal Torics 3Pk,Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+OPTICA VISION MATTERS - West Maredpally,OPTICA VISION MATTERS - West Maredpally,Coupoun Pro Toric,Coupoun Pro Toric,Tag71,30,5,10.98,329.25,48,103,403,80.75,0.0,CRITICAL STOCK
+OPTICA VISION MATTERS - West Maredpally,OPTICA VISION MATTERS - West Maredpally,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,7.42,222.48,29,67,260,65.98,0.0,LOW STOCK
+OPTICA VISION MATTERS - West Maredpally,OPTICA VISION MATTERS - West Maredpally,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,2.19,65.7,1,12,48,0.0,0.0,OPTIMAL
+Opti Journey Innovations,Opti Journey Innovations,Assorted Contact Lenses,Assorted Contact Lenses,Inter State B2B,1650,5,248.23,7446.98,403,1645,7442,4.73,0.0,OPTIMAL
+Opti Journey Innovations,Opti Journey Innovations,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Inter State B2B,3285,5,654.03,19620.9,1,3272,19608,0.0,0.0,OPTIMAL
+Opti Journey Innovations,Opti Journey Innovations,PV 2 Spherical 6 Lens pack,PV 2 Spherical 6 Lens pack,Inter State B2B,750,5,149.77,4493.1,1,750,4494,0.0,0.0,LOW STOCK
+Opti Journey Innovations,Opti Journey Innovations,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Inter State B2B,3865,5,761.29,22838.7,1,3808,22782,0.0,0.0,OPTIMAL
+Opti Journey Innovations,Opti Journey Innovations,SL59,SL59,Inter State B2B,9725,5,555.4,16662.0,1071,3848,10785,0.0,0.0,OPTIMAL
+Opti Journey Innovations,Opti Journey Innovations,Ultra Toric,Ultra Toric,Inter State B2B,250,5,49.96,1498.8,1,251,1500,18.55,0.0,LOW STOCK
+Optical Hut Vizag,Optical Hut Vizag,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+Optocura Ventures LLP - Jubilee Hills,Optocura Ventures LLP - Jubilee Hills,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.64,49.05,1,10,30,0.0,0.0,OPTIMAL
+Optocura Ventures LLP - Jubilee Hills,Optocura Ventures LLP - Jubilee Hills,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+Optocura Ventures LLP - Jubilee Hills,Optocura Ventures LLP - Jubilee Hills,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.81,54.3,1,11,36,0.0,0.0,OPTIMAL
+Optocura Ventures LLP - Jubilee Hills,Optocura Ventures LLP - Jubilee Hills,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Intra State B2B,30,5,2.01,60.3,1,12,43,0.0,0.0,OPTIMAL
+Optocura Ventures LLP - Jubilee Hills,Optocura Ventures LLP - Jubilee Hills,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.1,63.15,1,12,46,0.0,0.0,OPTIMAL
+Optocura Ventures LLP - Jubilee Hills,Optocura Ventures LLP - Jubilee Hills,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.75,52.65,1,10,33,0.0,0.0,OPTIMAL
+Optocura Ventures LLP - Jubilee Hills,Optocura Ventures LLP - Jubilee Hills,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Our Vision Opticals Vijayawada,Our Vision Opticals Vijayawada,Courier Chargers,Courier Chargers,Inter State B2B,30,5,1.72,51.6,1,10,32,0.0,0.0,OPTIMAL
+Our Vision Opticals Vijayawada,Our Vision Opticals Vijayawada,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Inter State B2B,30,5,1.86,55.8,1,11,37,0.0,0.0,OPTIMAL
+PAREENA EYE CARE CENTER,PAREENA EYE CARE CENTER,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+PAREENA EYE CARE CENTER,PAREENA EYE CARE CENTER,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+POOJA OPTICALS -- V.P,POOJA OPTICALS -- V.P,Biofinity Energys New ( 3pk ),Biofinity Energys New ( 3pk ),Tag71,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+PRISTINE OPTICALS,PRISTINE OPTICALS,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+PRISTINE OPTICALS,PRISTINE OPTICALS,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.85,55.4,1,11,37,0.0,0.0,OPTIMAL
+PRISTINE OPTICALS,PRISTINE OPTICALS,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+PRISTINE OPTICALS,PRISTINE OPTICALS,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.62,48.75,1,10,29,0.0,0.0,OPTIMAL
+PRISTINE OPTICALS,PRISTINE OPTICALS,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+PRISTINE OPTICALS,PRISTINE OPTICALS,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.17,65.07,1,12,48,0.0,0.0,OPTIMAL
+PRISTINE OPTICALS,PRISTINE OPTICALS,ASPIRE PRO TORIC TRAIL (1 LENS PACK),ASPIRE PRO TORIC TRAIL (1 LENS PACK),Intra State B2B,30,5,2.13,63.9,1,12,46,0.0,0.0,OPTIMAL
+PRO VISION OPTOMETRY,PRO VISION OPTOMETRY,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,1.88,56.4,1,11,38,0.0,0.0,OPTIMAL
+Pavan Enterprises Miyapur,Pavan Enterprises Miyapur,BONDSET FAST SETTING 25 GM,BONDSET FAST SETTING 25 GM,Intra State B2B,300,5,59.79,1793.7,1,300,1794,0.0,0.0,LOW STOCK
+Pavan Enterprises Miyapur,Pavan Enterprises Miyapur,BONDSET FAST SETTING 60 GM,BONDSET FAST SETTING 60 GM,Intra State B2B,170,5,34.13,1023.9,2,173,1027,81.43,0.0,LOW STOCK
+Pavan Enterprises Miyapur,Pavan Enterprises Miyapur,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Intra State B2B,120,5,23.98,719.25,1,121,721,28.81,0.0,LOW STOCK
+Pavan Enterprises Miyapur,Pavan Enterprises Miyapur,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Intra State B2B,120,5,23.98,719.25,1,121,721,28.81,0.0,LOW STOCK
+Pavan Enterprises Miyapur,Pavan Enterprises Miyapur,VETRA LV (401) 50 GM (SHEME),VETRA LV (401) 50 GM (SHEME),Intra State B2B,100,5,20.0,600.0,1,101,601,50.0,0.0,LOW STOCK
+Pavan Enterprises Miyapur,Pavan Enterprises Miyapur,VETRA SUPERFIX HV 703 125 GM,VETRA SUPERFIX HV 703 125 GM,Intra State B2B,30,5,2.32,69.6,1,13,53,0.0,0.0,OPTIMAL
+Pavan Plywood & Hardware,Pavan Plywood & Hardware,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Tag71,240,5,47.84,1435.2,1,241,1437,0.02,0.0,LOW STOCK
+Pavan Plywood & Hardware,Pavan Plywood & Hardware,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,100,5,20.0,600.0,1,101,601,50.0,0.0,LOW STOCK
+Pavan Plywood & Hardware,Pavan Plywood & Hardware,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Tag71,100,5,20.0,600.0,1,101,601,50.0,0.0,LOW STOCK
+Pooja Power Tools,Pooja Power Tools,BONDSET FAST SETTING 25 GM,BONDSET FAST SETTING 25 GM,Intra State B2B,300,5,59.8,1794.0,1,300,1794,0.0,0.0,LOW STOCK
+Pooja Power Tools,Pooja Power Tools,BONDSET FAST SETTING 60 GM,BONDSET FAST SETTING 60 GM,Intra State B2B,170,5,33.9,1017.0,1,171,1018,1.27,0.0,LOW STOCK
+Pooja Power Tools,Pooja Power Tools,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Intra State B2B,100,5,20.01,600.3,1,102,603,58.85,0.0,LOW STOCK
+Poonam Plywood & Hardware,Poonam Plywood & Hardware,BONDTITE FAST & CLEAR 1 KG (S),BONDTITE FAST & CLEAR 1 KG (S),Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Poonam Plywood & Hardware,Poonam Plywood & Hardware,BONDTITE FAST & CLEAR 180 GM,BONDTITE FAST & CLEAR 180 GM,Intra State B2B,60,5,11.86,355.8,1,61,357,0.09,0.0,LOW STOCK
+Poonam Plywood & Hardware,Poonam Plywood & Hardware,BONDTITE FAST & CLEAR 450 GM (S),BONDTITE FAST & CLEAR 450 GM (S),Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Poonam Plywood & Hardware,Poonam Plywood & Hardware,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Intra State B2B,120,5,23.96,718.8,1,121,720,18.55,0.0,LOW STOCK
+Poonam Plywood & Hardware,Poonam Plywood & Hardware,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Intra State B2B,300,5,59.83,1794.9,1,301,1796,0.01,0.0,LOW STOCK
+Poonam Plywood & Hardware,Poonam Plywood & Hardware,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Intra State B2B,100,5,20.01,600.3,1,102,603,58.85,0.0,LOW STOCK
+Prime Opticians-NMDC,Prime Opticians-NMDC,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+Prime Opticians-NMDC,Prime Opticians-NMDC,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,1.78,53.4,1,10,34,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.72,51.6,1,10,32,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.96,58.8,2,12,41,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,2.08,62.4,1,12,45,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.06,61.8,1,12,44,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,2.06,61.8,1,12,44,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.81,54.3,1,11,36,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Intra State B2B,30,5,2.1,63.15,1,12,46,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,Courier Chargers,Courier Chargers,Intra State B2B,30,5,1.59,47.7,1,9,27,0.0,0.0,OPTIMAL
+R.R Vision Care,R.R Vision Care,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.82,54.6,1,11,36,0.0,0.0,OPTIMAL
+RISHAB OPTICS - Abids,RISHAB OPTICS - Abids,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Intra State B2B,40,5,7.69,230.7,1,40,231,0.0,0.0,LOW STOCK
+RamaKrishna A.P,RamaKrishna A.P,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+RamaKrishna A.P,RamaKrishna A.P,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,1.77,52.95,1,10,33,0.0,0.0,OPTIMAL
+RamaKrishna A.P,RamaKrishna A.P,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.81,54.3,1,11,36,0.0,0.0,OPTIMAL
+RamaKrishna A.P,RamaKrishna A.P,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+RamaKrishna A.P,RamaKrishna A.P,Courier Chargers,Courier Chargers,Tag71,30,5,1.5,45.0,1,9,24,0.0,0.0,OPTIMAL
+RamaKrishna A.P,RamaKrishna A.P,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Ramdev Eletrical & Hardware,Ramdev Eletrical & Hardware,BONDSET FAST SETTING 25 GM,BONDSET FAST SETTING 25 GM,Tag71,300,5,59.79,1793.7,1,300,1794,0.0,0.0,LOW STOCK
+Ramdev Eletrical & Hardware,Ramdev Eletrical & Hardware,BONDSET FAST SETTING 60 GM,BONDSET FAST SETTING 60 GM,Tag71,170,5,33.9,1017.0,1,171,1018,1.27,0.0,LOW STOCK
+Ramdev Eletrical & Hardware,Ramdev Eletrical & Hardware,BONDSET SANITARY UNDER WATER 25 GM,BONDSET SANITARY UNDER WATER 25 GM,Tag71,300,5,59.79,1793.7,1,300,1794,0.0,0.0,LOW STOCK
+Ramdev Eletrical & Hardware,Ramdev Eletrical & Hardware,BONDTITE FAST & CLEAR 450 GM (S),BONDTITE FAST & CLEAR 450 GM (S),Tag71,30,5,2.01,60.3,1,12,43,0.0,0.0,OPTIMAL
+Ramdev Eletrical & Hardware,Ramdev Eletrical & Hardware,EZY DRAIN CLEANER 40 GM JAR,EZY DRAIN CLEANER 40 GM JAR,Tag71,250,5,49.55,1486.5,1,249,1486,0.0,0.0,OPTIMAL
+Ramdev Eletrical & Hardware,Ramdev Eletrical & Hardware,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,300,5,60.01,1800.3,1,302,1803,58.85,0.0,LOW STOCK
+Rao Associates M/s,Rao Associates M/s,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Inter State B2B,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+Rao Associates M/s,Rao Associates M/s,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,30,5,2.05,61.5,1,12,44,0.0,0.0,OPTIMAL
+Rao Associates M/s,Rao Associates M/s,Courier Chargers,Courier Chargers,Inter State B2B,30,5,1.59,47.85,1,9,27,0.0,0.0,OPTIMAL
+Rao Associates M/s,Rao Associates M/s,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Inter State B2B,30,5,3.27,98.1,9,26,95,0.31,0.0,OPTIMAL
+Ravi Hospital,Ravi Hospital,Safe AQ Max I Meter,Safe AQ Max I Meter,Tag71,30,5,2.48,74.4,1,14,59,0.0,0.0,OPTIMAL
+Ravi Hospital,Ravi Hospital,Safe AQ Max I Strips Vial 100s,Safe AQ Max I Strips Vial 100s,Tag71,50,5,10.24,307.2,1,53,311,100.0,0.0,LOW STOCK
+Ravi Hospital,Ravi Hospital,Twist Sinodraw Lancet 28G 50s,Twist Sinodraw Lancet 28G 50s,Tag71,50,5,10.26,307.8,1,53,311,100.0,0.0,LOW STOCK
+Ray Optics,Ray Optics,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Ray Optics,Ray Optics,Courier Chargers,Courier Chargers,Tag71,30,5,1.7,51.0,1,10,31,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,B2C Small,30,5,1.88,56.4,1,11,38,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,B2C Small,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,B2C Small,30,5,1.75,52.5,1,10,33,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),B2C Small,30,5,1.9,56.85,1,11,38,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),B2C Small,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),B2C Small,30,5,2.24,67.26,1,13,51,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE PRO TORIC TRAIL (1 LENS PACK),ASPIRE PRO TORIC TRAIL (1 LENS PACK),B2C Small,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,ASPIRE PRO TRAIL (1 LENS PACK),ASPIRE PRO TRAIL (1 LENS PACK),B2C Small,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,Biofinity Energys New ( 3pk ),Biofinity Energys New ( 3pk ),B2C Small,30,5,1.98,59.4,1,11,41,0.0,0.0,OPTIMAL
+Rishi Swarup HUF,Rishi Swarup HUF,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,B2C Small,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+Royal Glass Works,Royal Glass Works,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,100,5,20.2,606.0,1,102,608,100.0,0.0,LOW STOCK
+Royal Glass Works,Royal Glass Works,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Tag71,100,5,20.2,606.0,1,102,608,100.0,0.0,LOW STOCK
+SABERIS EYE WEAR ASSCOCIATES,SABERIS EYE WEAR ASSCOCIATES,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.78,53.4,1,10,34,0.0,0.0,OPTIMAL
+SANKARA EYE HOSPITAL,SANKARA EYE HOSPITAL,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.88,56.4,1,11,38,0.0,0.0,OPTIMAL
+SHANMUKHA AYURVEDA HEALTH CARE,SHANMUKHA AYURVEDA HEALTH CARE,Lanset,Lanset,Intra State B2B,50,5,9.81,294.3,1,51,296,0.0,0.0,LOW STOCK
+SHANMUKHA AYURVEDA HEALTH CARE,SHANMUKHA AYURVEDA HEALTH CARE,Safe AQ Max I Meter,Safe AQ Max I Meter,Intra State B2B,30,5,2.69,80.7,1,15,66,0.0,0.0,OPTIMAL
+SHANMUKHA AYURVEDA HEALTH CARE,SHANMUKHA AYURVEDA HEALTH CARE,Safe AQ Max I Strips Vial 100s,Safe AQ Max I Strips Vial 100s,Intra State B2B,30,5,2.54,76.2,1,14,61,0.0,0.0,OPTIMAL
+SHANMUKHA AYURVEDA HEALTH CARE,SHANMUKHA AYURVEDA HEALTH CARE,Safe AQ Max III 50s Foil,Safe AQ Max III 50s Foil,Intra State B2B,30,5,2.58,77.4,1,14,62,0.0,0.0,OPTIMAL
+SHANMUKHA AYURVEDA HEALTH CARE,SHANMUKHA AYURVEDA HEALTH CARE,Safe AQ Max III Meter,Safe AQ Max III Meter,Intra State B2B,30,5,2.69,80.7,1,15,66,0.0,0.0,OPTIMAL
+SHANMUKHA AYURVEDA HEALTH CARE,SHANMUKHA AYURVEDA HEALTH CARE,Twist Sinodraw Lancet 28G 50s,Twist Sinodraw Lancet 28G 50s,Intra State B2B,300,5,60.01,1800.3,1,302,1803,58.85,0.0,LOW STOCK
+SHARATH MAXIVISION EYE HOSPITAL - Warangal,SHARATH MAXIVISION EYE HOSPITAL - Warangal,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.8,54.0,1,10,34,0.0,0.0,OPTIMAL
+SHARATH MAXIVISION EYE HOSPITAL - Warangal,SHARATH MAXIVISION EYE HOSPITAL - Warangal,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.88,56.4,1,11,38,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.68,50.25,1,10,31,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.75,52.65,1,10,33,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Intra State B2B,30,5,1.99,59.7,1,11,41,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.13,63.98,1,12,46,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,ASPIRE PRO TRAIL (1 LENS PACK),ASPIRE PRO TRAIL (1 LENS PACK),Intra State B2B,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,1.76,52.8,1,10,33,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.93,57.9,1,11,39,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.49,44.83,1,9,24,0.0,0.0,OPTIMAL
+SHREE NETRA EYE WEAR - Srinagar Colony,SHREE NETRA EYE WEAR - Srinagar Colony,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.77,52.97,1,10,33,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ACUVUE OASYS 6pk,ACUVUE OASYS 6pk,Intra State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,2.18,65.4,1,12,48,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,180,5,35.9,1077.0,1,181,1078,1.27,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Intra State B2B,85,5,16.95,508.5,1,86,510,13.18,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,2.45,73.5,1,14,58,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,2.39,71.7,1,13,55,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,35,5,4.52,135.6,13,36,137,4.62,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,120,5,23.93,717.9,1,121,719,5.88,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,70,5,13.95,418.5,1,71,420,13.18,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,55,5,6.54,196.35,23,56,198,5.29,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,185,5,36.96,1108.8,1,186,1110,18.55,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,Acuvue Oasys With Hydraluxe,Acuvue Oasys With Hydraluxe,Intra State B2B,30,5,2.52,75.6,1,14,60,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,Acuvue Vita For Astigmatism,Acuvue Vita For Astigmatism,Intra State B2B,30,5,2.46,73.8,1,14,58,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,2.48,74.4,1,14,59,0.0,0.0,OPTIMAL
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,60,5,11.93,357.9,1,61,359,5.88,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,Biomedics Now ( 6pk ) New,Biomedics Now ( 6pk ) New,Intra State B2B,310,5,61.88,1856.4,1,311,1858,0.36,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Tag71,230,5,45.99,1379.7,1,231,1381,41.15,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,245,5,48.94,1468.2,1,246,1470,8.99,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,400,5,79.77,2393.1,1,400,2394,0.0,0.0,LOW STOCK
+SLG HEALTHNEEDS,SLG HEALTHNEEDS,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Intra State B2B,30,5,2.33,69.9,1,13,53,0.0,0.0,OPTIMAL
+SLS Optical,SLS Optical,ASPIRE AIR (3 LENS PACK),ASPIRE AIR (3 LENS PACK),Tag71,30,5,1.45,43.5,1,9,23,0.0,0.0,OPTIMAL
+SMART VISION EYE SPECIALITIES PRIVATE LIMITED,SMART VISION EYE SPECIALITIES PRIVATE LIMITED,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+SMART VISION EYE SPECIALITIES PRIVATE LIMITED,SMART VISION EYE SPECIALITIES PRIVATE LIMITED,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+SMART VISION EYE SPECIALITIES PRIVATE LIMITED,SMART VISION EYE SPECIALITIES PRIVATE LIMITED,Biofinity Multifocal Torics 3Pk,Biofinity Multifocal Torics 3Pk,Intra State B2B,30,5,2.11,63.3,1,12,46,0.0,0.0,OPTIMAL
+SMART VISION EYE SPECIALITIES PRIVATE LIMITED,SMART VISION EYE SPECIALITIES PRIVATE LIMITED,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.78,53.4,1,10,34,0.0,0.0,OPTIMAL
+SMART VISION EYE SPECIALITIES PRIVATE LIMITED,SMART VISION EYE SPECIALITIES PRIVATE LIMITED,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Intra State B2B,30,5,2.09,62.7,1,12,45,0.0,0.0,OPTIMAL
+SONY GLASS AND ALUMINIUM - TELLAPUR,SONY GLASS AND ALUMINIUM - TELLAPUR,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Intra State B2B,600,5,119.85,3595.5,1,601,3597,0.04,0.0,LOW STOCK
+SRI DEEKSHITHA ENTERPRISES,SRI DEEKSHITHA ENTERPRISES,BONDSET FAST SETTING 1 KG,BONDSET FAST SETTING 1 KG,Intra State B2B,100,5,19.88,596.4,1,101,598,0.36,0.0,LOW STOCK
+SRI DEEKSHITHA ENTERPRISES,SRI DEEKSHITHA ENTERPRISES,BONDSET FAST SETTING 25 GM,BONDSET FAST SETTING 25 GM,Intra State B2B,1200,5,135.28,4058.4,1,678,3537,0.0,0.0,OPTIMAL
+SRI DEEKSHITHA ENTERPRISES,SRI DEEKSHITHA ENTERPRISES,BONDSET FAST SETTING JAR PACK 90 GM,BONDSET FAST SETTING JAR PACK 90 GM,Intra State B2B,510,5,99.72,2991.6,1,500,2982,0.0,0.0,OPTIMAL
+SRI DEEKSHITHA ENTERPRISES,SRI DEEKSHITHA ENTERPRISES,BONDTITE FAST & CLEAR 180 GM,BONDTITE FAST & CLEAR 180 GM,Intra State B2B,30,5,2.05,61.5,1,12,44,0.0,0.0,OPTIMAL
+SRI DEEKSHITHA ENTERPRISES,SRI DEEKSHITHA ENTERPRISES,BONDTITE FAST & CLEAR 270 GM,BONDTITE FAST & CLEAR 270 GM,Intra State B2B,30,5,2.05,61.5,1,12,44,0.0,0.0,OPTIMAL
+SRI DEEKSHITHA ENTERPRISES,SRI DEEKSHITHA ENTERPRISES,BONDTITE FAST & CLEAR 36 GM,BONDTITE FAST & CLEAR 36 GM,Intra State B2B,60,5,11.89,356.7,1,61,358,0.7,0.0,LOW STOCK
+SRI DEEKSHITHA ENTERPRISES,SRI DEEKSHITHA ENTERPRISES,BONDTITE FAST & CLEAR 90 GM,BONDTITE FAST & CLEAR 90 GM,Intra State B2B,400,5,44.8,1344.0,182,406,1350,5.55,0.0,LOW STOCK
+SV Aditya Biomedicals Medak,SV Aditya Biomedicals Medak,Safe Accu Gluco Meter,Safe Accu Gluco Meter,Intra State B2B,30,5,2.26,67.8,1,13,51,0.0,0.0,OPTIMAL
+SV Aditya Biomedicals Medak,SV Aditya Biomedicals Medak,Safe Accu Test Strip 50s (Individual),Safe Accu Test Strip 50s (Individual),Intra State B2B,100,5,19.89,596.7,1,101,598,0.7,0.0,LOW STOCK
+Sai Kaushik Traders,Sai Kaushik Traders,BONDSET FAST SETTING 60 GM,BONDSET FAST SETTING 60 GM,Tag71,170,5,34.14,1024.2,2,173,1028,84.28,0.0,LOW STOCK
+Sai Kaushik Traders,Sai Kaushik Traders,BONDSET FAST SETTING JAR PACK 90 GM,BONDSET FAST SETTING JAR PACK 90 GM,Tag71,170,5,33.92,1017.6,1,171,1019,3.68,0.0,LOW STOCK
+Sai Kaushik Traders,Sai Kaushik Traders,BONDSET SANITARY UNDER WATER 25 GM,BONDSET SANITARY UNDER WATER 25 GM,Tag71,300,5,62.03,1861.05,10,321,1883,96.51,0.0,LOW STOCK
+Sai Kaushik Traders,Sai Kaushik Traders,BONDSET SANITARY UNDER WATER 60 GM,BONDSET SANITARY UNDER WATER 60 GM,Tag71,170,5,34.14,1024.2,2,173,1028,84.28,0.0,LOW STOCK
+Sai Kaushik Traders,Sai Kaushik Traders,BONDSET WHITE 25 GM,BONDSET WHITE 25 GM,Tag71,300,5,59.79,1793.7,1,300,1794,0.0,0.0,LOW STOCK
+Sai Kaushik Traders,Sai Kaushik Traders,EZY DRAIN CLEANER 40 GM JAR,EZY DRAIN CLEANER 40 GM JAR,Tag71,500,5,99.45,2983.5,1,499,2983,0.0,0.0,OPTIMAL
+Sai Kaushik Traders,Sai Kaushik Traders,FILLX ULTRA 2K IRON GRAY 1KG,FILLX ULTRA 2K IRON GRAY 1KG,Tag71,30,5,1.67,50.1,1,10,31,0.0,0.0,OPTIMAL
+Sai Kaushik Traders,Sai Kaushik Traders,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Tag71,120,5,23.84,715.2,1,121,717,0.02,0.0,LOW STOCK
+Sai Kaushik Traders,Sai Kaushik Traders,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Tag71,120,5,23.84,715.2,1,121,717,0.02,0.0,LOW STOCK
+Sai Kaushik Traders Pipeline road,Sai Kaushik Traders Pipeline road,FILLX ULTRA 2K DUSTY GREY 1 KG,FILLX ULTRA 2K DUSTY GREY 1 KG,Tag71,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Sai Kaushik Traders Pipeline road,Sai Kaushik Traders Pipeline road,FILLX ULTRA 2K PURE WHITE 1 KG,FILLX ULTRA 2K PURE WHITE 1 KG,Tag71,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Sai Koushik Traders,Sai Koushik Traders,BONDSET SANITARY UNDER WATER 25 GM,BONDSET SANITARY UNDER WATER 25 GM,Tag71,320,5,63.81,1914.3,1,321,1916,0.0,0.0,LOW STOCK
+Sai Koushik Traders,Sai Koushik Traders,BONDSET SANITARY UNDER WATER 60 GM,BONDSET SANITARY UNDER WATER 60 GM,Tag71,170,5,33.92,1017.6,1,171,1019,3.68,0.0,LOW STOCK
+Sai Koushik Traders,Sai Koushik Traders,BONDTITE FAST & CLEAR 36 GM,BONDTITE FAST & CLEAR 36 GM,Tag71,60,5,11.88,356.4,1,61,358,0.36,0.0,LOW STOCK
+Sai Koushik Traders,Sai Koushik Traders,BONDTITE FAST & CLEAR 90 GM,BONDTITE FAST & CLEAR 90 GM,Tag71,50,5,9.88,296.4,1,51,298,0.36,0.0,LOW STOCK
+Sai Koushik Traders,Sai Koushik Traders,RESIBOND GP 100 CLEAR 260 ML,RESIBOND GP 100 CLEAR 260 ML,Tag71,120,5,23.84,715.2,1,121,717,0.02,0.0,LOW STOCK
+Sai Koushik Traders,Sai Koushik Traders,RESIBOND GP 100 WHITE 260 ML,RESIBOND GP 100 WHITE 260 ML,Tag71,120,5,23.84,715.2,1,121,717,0.02,0.0,LOW STOCK
+See eye wear--Manikonda,See eye wear--Manikonda,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,2.25,67.5,1,13,51,0.0,0.0,OPTIMAL
+See eye wear--Manikonda,See eye wear--Manikonda,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,2.01,60.3,1,12,43,0.0,0.0,OPTIMAL
+See eye wear--Manikonda,See eye wear--Manikonda,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,1.93,57.75,1,11,39,0.0,0.0,OPTIMAL
+Shiva Impex (karmanghat),Shiva Impex (karmanghat),Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.94,58.2,1,11,40,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,1.62,48.6,1,10,29,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.54,46.2,2,10,27,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.81,54.3,1,11,36,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.01,60.3,1,12,43,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,ASPIRE PRO TORIC TRAIL (1 LENS PACK),ASPIRE PRO TORIC TRAIL (1 LENS PACK),Intra State B2B,30,5,2.16,64.8,1,12,47,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.93,57.9,1,11,39,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Intra State B2B,30,5,2.03,60.9,1,12,43,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.78,53.4,1,10,34,0.0,0.0,OPTIMAL
+Shree Khetheswar Opticals - Abids,Shree Khetheswar Opticals - Abids,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.69,50.62,1,10,31,0.0,0.0,OPTIMAL
+Shreya Eye Care Center,Shreya Eye Care Center,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,2.06,61.8,1,12,44,0.0,0.0,OPTIMAL
+Shreya Eye Care Center,Shreya Eye Care Center,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+Solis Eye Wear,Solis Eye Wear,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.7,51.0,1,10,31,0.0,0.0,OPTIMAL
+Solis Eye Wear,Solis Eye Wear,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,3.71,111.18,13,32,114,7.13,0.0,LOW STOCK
+Solis Eye Wear,Solis Eye Wear,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.82,54.6,1,11,36,0.0,0.0,OPTIMAL
+Solis Eye Wear,Solis Eye Wear,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,100,5,6.49,194.77,34,67,162,0.04,0.0,OPTIMAL
+Solis Eye Wear,Solis Eye Wear,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.14,64.2,1,12,47,0.0,0.0,OPTIMAL
+Solis Eye Wear,Solis Eye Wear,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.94,58.2,1,11,40,0.0,0.0,OPTIMAL
+Solis Eye Wear,Solis Eye Wear,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.64,49.2,1,10,30,0.0,0.0,OPTIMAL
+Sree Nethralaya (Manikonda),Sree Nethralaya (Manikonda),Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,40,5,7.75,232.65,1,40,233,0.0,0.0,LOW STOCK
+Sree Nethralaya (Manikonda),Sree Nethralaya (Manikonda),MY DAY (30 LENS PK),MY DAY (30 LENS PK),Tag71,30,5,1.79,53.7,1,10,34,0.0,0.0,OPTIMAL
+Sree Nethralaya (Manikonda),Sree Nethralaya (Manikonda),MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,40,5,7.57,227.1,1,39,227,0.0,0.0,OPTIMAL
+Sree Optical,Sree Optical,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.37,71.1,2,14,56,0.0,0.0,OPTIMAL
+Sree Optical,Sree Optical,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Sree Optical,Sree Optical,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Tag71,30,5,2.09,62.7,1,12,45,0.0,0.0,OPTIMAL
+Sreekrishna enterprises,Sreekrishna enterprises,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.62,48.6,1,10,29,0.0,0.0,OPTIMAL
+Sreekrishna enterprises,Sreekrishna enterprises,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Sri Jagadamba Enterprises,Sri Jagadamba Enterprises,FILLX ULTRA 2K SIGNAL BLACK 1 KG,FILLX ULTRA 2K SIGNAL BLACK 1 KG,Intra State B2B,30,5,1.71,51.3,1,10,32,0.0,0.0,OPTIMAL
+Sri Omkar Optics (Jeedimetla),Sri Omkar Optics (Jeedimetla),ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,1.66,49.8,1,10,30,0.0,0.0,OPTIMAL
+Sri Omkar Optics (Jeedimetla),Sri Omkar Optics (Jeedimetla),ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Intra State B2B,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+Sri Omkar Optics (Jeedimetla),Sri Omkar Optics (Jeedimetla),ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.09,62.7,1,12,45,0.0,0.0,OPTIMAL
+Sri Omkar Optics (Jeedimetla),Sri Omkar Optics (Jeedimetla),Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.73,51.9,1,10,32,0.0,0.0,OPTIMAL
+Sri Omkar Optics (Jeedimetla),Sri Omkar Optics (Jeedimetla),Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Intra State B2B,30,5,2.03,60.9,1,12,43,0.0,0.0,OPTIMAL
+Sri Rama Plywood & Hardware,Sri Rama Plywood & Hardware,VETRA LV (401) 20 GM (SCHEME),VETRA LV (401) 20 GM (SCHEME),Intra State B2B,500,5,99.74,2992.2,1,500,2993,0.0,0.0,LOW STOCK
+Sri Sai Krishna opticals-Ramnagar 22-23,Sri Sai Krishna opticals-Ramnagar 22-23,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Tag71,30,5,1.82,54.6,1,11,36,0.0,0.0,OPTIMAL
+Sri Sai Krishna opticals-Ramnagar 22-23,Sri Sai Krishna opticals-Ramnagar 22-23,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,1.87,56.17,1,11,38,0.0,0.0,OPTIMAL
+Sri Sai Krishna opticals-Ramnagar 22-23,Sri Sai Krishna opticals-Ramnagar 22-23,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.79,53.85,1,10,34,0.0,0.0,OPTIMAL
+Sri Sai Krishna opticals-Ramnagar 22-23,Sri Sai Krishna opticals-Ramnagar 22-23,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.07,62.2,1,12,45,0.0,0.0,OPTIMAL
+Sri Sai Krishna opticals-Ramnagar 22-23,Sri Sai Krishna opticals-Ramnagar 22-23,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,1.76,52.8,1,10,33,0.0,0.0,OPTIMAL
+Sri Sai Krishna opticals-Ramnagar 22-23,Sri Sai Krishna opticals-Ramnagar 22-23,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.71,51.3,1,10,32,0.0,0.0,OPTIMAL
+Sri Sai Krishna opticals-Ramnagar 22-23,Sri Sai Krishna opticals-Ramnagar 22-23,Clarity 1Day MF 1Pk Trail,Clarity 1Day MF 1Pk Trail,Tag71,30,5,2.1,63.0,1,12,45,0.0,0.0,OPTIMAL
+Sri Teja Car Decors,Sri Teja Car Decors,VEGAQUICK 20 GM (S),VEGAQUICK 20 GM (S),Tag71,100,5,19.85,595.5,1,101,597,0.04,0.0,LOW STOCK
+Sun Shades Opticals-KPHB,Sun Shades Opticals-KPHB,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,1.99,59.82,1,11,41,0.0,0.0,OPTIMAL
+Sunil Opticians,Sunil Opticians,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,2.08,62.5,1,12,45,0.0,0.0,OPTIMAL
+Sunil Opticians,Sunil Opticians,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+Sunil Opticians,Sunil Opticians,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.67,50.1,1,10,31,0.0,0.0,OPTIMAL
+Sunil Opticians,Sunil Opticians,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.29,68.64,1,13,52,0.0,0.0,OPTIMAL
+Sunil Opticians,Sunil Opticians,Biofinity Multifocal Torics 3Pk,Biofinity Multifocal Torics 3Pk,Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Supreme Vision Madurai,Supreme Vision Madurai,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Inter State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+Supreme Vision Madurai,Supreme Vision Madurai,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Inter State B2B,30,5,2.05,61.65,1,12,44,0.0,0.0,OPTIMAL
+Supreme Vision Madurai,Supreme Vision Madurai,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Inter State B2B,30,5,1.95,58.5,1,11,40,0.0,0.0,OPTIMAL
+Supreme Vision Madurai,Supreme Vision Madurai,Courier Chargers,Courier Chargers,Inter State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Tag71,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.19,65.7,1,12,48,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,Acuvue Moist 1 Day Astigmatism,Acuvue Moist 1 Day Astigmatism,Tag71,30,5,1.8,54.0,1,10,34,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,Acuvue Moist For Lacreon,Acuvue Moist For Lacreon,Tag71,30,5,1.56,46.8,2,10,27,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,Acuvue Oasys For Astigmatism,Acuvue Oasys For Astigmatism,Tag71,30,5,1.72,51.67,1,10,32,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Tag71,30,5,1.76,52.8,1,10,33,0.0,0.0,OPTIMAL
+Swadha Eye Contacts,Swadha Eye Contacts,Moist 1 day Astigmatism 30pk,Moist 1 day Astigmatism 30pk,Tag71,30,5,1.78,53.3,1,10,34,0.0,0.0,OPTIMAL
+Swasthik Power Tools,Swasthik Power Tools,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,FILLX ULTRA 2K CHOCOLATE BROWN 1 KG,Intra State B2B,30,5,1.7,51.0,1,10,31,0.0,0.0,OPTIMAL
+Swasthik Power Tools,Swasthik Power Tools,FILLX ULTRA 2K IRON GRAY 1KG,FILLX ULTRA 2K IRON GRAY 1KG,Intra State B2B,30,5,1.7,51.0,1,10,31,0.0,0.0,OPTIMAL
+Swasthik Power Tools,Swasthik Power Tools,FILLX ULTRA 2K SIGNAL BLACK 1 KG,FILLX ULTRA 2K SIGNAL BLACK 1 KG,Intra State B2B,30,5,1.7,51.0,1,10,31,0.0,0.0,OPTIMAL
+TRUELENS INTERNATIONAL,TRUELENS INTERNATIONAL,Assorted Contact Lenses,Assorted Contact Lenses,Inter State B2B,215,5,42.87,1286.1,1,216,1288,0.18,0.0,LOW STOCK
+TRUELENS INTERNATIONAL,TRUELENS INTERNATIONAL,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Inter State B2B,30,5,196.53,5896.05,1002,1985,7852,94.12,0.0,CRITICAL STOCK
+TRUELENS INTERNATIONAL,TRUELENS INTERNATIONAL,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Inter State B2B,325,5,49.52,1485.6,50,298,1459,0.51,0.0,OPTIMAL
+TRUELENS INTERNATIONAL,TRUELENS INTERNATIONAL,PV 2 Spherical 6 Lens pack,PV 2 Spherical 6 Lens pack,Inter State B2B,465,5,238.32,7149.6,784,1976,8661,93.63,0.0,CRITICAL STOCK
+The Lenscare,The Lenscare,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+The Lenscare,The Lenscare,Biomedics Now (6 Lens pack) NEW,Biomedics Now (6 Lens pack) NEW,Tag71,60,5,37.2,1116.1,81,268,1325,99.5,0.0,CRITICAL STOCK
+V Medical Equipment Services,V Medical Equipment Services,Safe AQ Max III 50s Foil,Safe AQ Max III 50s Foil,Intra State B2B,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+V Medical Equipment Services,V Medical Equipment Services,Safe AQ Max III Meter,Safe AQ Max III Meter,Intra State B2B,30,5,1.98,59.4,1,11,41,0.0,0.0,OPTIMAL
+VARIGEM MEDTECH PRIVATE LIMITED,VARIGEM MEDTECH PRIVATE LIMITED,Safe Accu Test Strip 50s (Vail),Safe Accu Test Strip 50s (Vail),Intra State B2B,250,5,29.86,895.8,105,255,901,5.58,0.0,LOW STOCK
+VASAN HEALTH CARE PVT LTD - Sec-Bad,VASAN HEALTH CARE PVT LTD - Sec-Bad,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.08,62.55,1,12,45,0.0,0.0,OPTIMAL
+VASAN HEALTH CARE WARANGAL,VASAN HEALTH CARE WARANGAL,ASPIRE AIR (6 LENS PACK) New,ASPIRE AIR (6 LENS PACK) New,Intra State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+VASAN HEALTH CARE WARANGAL,VASAN HEALTH CARE WARANGAL,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.17,65.1,1,12,48,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,1.89,56.7,1,11,38,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Tag71,30,5,1.73,51.9,1,10,32,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Tag71,30,5,2.0,60.0,1,11,41,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,1.99,59.77,1,11,41,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,Biotrue Solu - 60ml,Biotrue Solu - 60ml,Tag71,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Tag71,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,Safe Accu Gluco Meter,Safe Accu Gluco Meter,B2C Small,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,Safe Accu Test Strip 50s (Individual),Safe Accu Test Strip 50s (Individual),Tag71,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,Safe Accu Test Strip 50s (Vail),Safe Accu Test Strip 50s (Vail),B2C Small,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+VISHWANATH SALES MAN,VISHWANATH SALES MAN,Twist Sinodraw Lancet 28G 50s,Twist Sinodraw Lancet 28G 50s,Tag71,30,5,1.94,58.2,1,11,40,0.0,0.0,OPTIMAL
+Venkat - Vijayawada,Venkat - Vijayawada,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Tag71,30,5,2.02,60.6,1,12,43,0.0,0.0,OPTIMAL
+Venkat - Vijayawada,Venkat - Vijayawada,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.15,64.5,1,12,47,0.0,0.0,OPTIMAL
+Venkat - Vijayawada,Venkat - Vijayawada,Biofinity Toric 6 Lense pack (new),Biofinity Toric 6 Lense pack (new),Tag71,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+Venkat - Vijayawada,Venkat - Vijayawada,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Tag71,30,5,1.83,54.9,1,11,36,0.0,0.0,OPTIMAL
+Venkat - Vijayawada,Venkat - Vijayawada,Courier Chargers,Courier Chargers,Tag71,30,5,1.6,48.0,1,9,27,0.0,0.0,OPTIMAL
+Vijaya Distributors Moosapet,Vijaya Distributors Moosapet,RGB AIR BED,RGB AIR BED,Intra State B2B,100,5,19.89,596.7,1,101,598,0.7,0.0,LOW STOCK
+Vijaya Distributors Moosapet,Vijaya Distributors Moosapet,RGB PREPRAZOR,RGB PREPRAZOR,Intra State B2B,26000,5,5112.54,153376.2,1,25564,152941,0.0,0.0,OPTIMAL
+Vijaya Krishna Opticals_Eluru,Vijaya Krishna Opticals_Eluru,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Inter State B2B,30,5,2.0,60.0,1,11,41,0.0,0.0,OPTIMAL
+Vijaya Krishna Opticals_Eluru,Vijaya Krishna Opticals_Eluru,Courier Chargers,Courier Chargers,Inter State B2B,30,5,1.55,46.65,1,9,26,0.0,0.0,OPTIMAL
+Vijaya Krishna Opticals_Eluru,Vijaya Krishna Opticals_Eluru,Proclear 6 Lens pack(New),Proclear 6 Lens pack(New),Inter State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+Vision Express (JNTU),Vision Express (JNTU),ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Tag71,30,5,1.72,51.6,1,10,32,0.0,0.0,OPTIMAL
+Vision eye Care (miyapur),Vision eye Care (miyapur),ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Tag71,30,5,1.92,57.6,1,11,39,0.0,0.0,OPTIMAL
+Vision eye Care (miyapur),Vision eye Care (miyapur),ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.1,63.0,2,13,46,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,ASPIRE AIR TORIC (3 LENS PACK),ASPIRE AIR TORIC (3 LENS PACK),Intra State B2B,30,5,1.93,57.9,1,11,39,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.72,51.6,1,10,32,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,1.97,59.1,1,11,41,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.82,54.6,1,11,36,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,Biofinity Energys New ( 3pk ),Biofinity Energys New ( 3pk ),Intra State B2B,40,5,7.82,234.6,1,41,236,0.0,0.0,LOW STOCK
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,2.2,65.85,2,13,49,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,1.77,53.1,1,10,34,0.0,0.0,OPTIMAL
+Vivera Optics - Gachibowli,Vivera Optics - Gachibowli,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.79,53.85,2,11,35,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - A.S Rao Nagar,Win Vision Eye Hospitals - A.S Rao Nagar,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,1.91,57.3,1,11,39,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - A.S Rao Nagar,Win Vision Eye Hospitals - A.S Rao Nagar,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.8,54.0,1,10,34,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - A.S Rao Nagar,Win Vision Eye Hospitals - A.S Rao Nagar,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.09,62.7,1,12,45,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - A.S Rao Nagar,Win Vision Eye Hospitals - A.S Rao Nagar,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.79,53.7,1,10,34,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Intra State B2B,30,5,1.87,56.1,1,11,38,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,ASPIRE GO MAX 1DAY M.F 30LENS PK,ASPIRE GO MAX 1DAY M.F 30LENS PK,Intra State B2B,30,5,1.72,51.6,1,10,32,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,2.07,62.1,1,12,45,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.85,55.6,1,11,37,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.06,61.8,1,12,44,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.78,53.4,1,10,34,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Tag71,30,5,2.16,64.65,1,12,47,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Begumpet,Win Vision Eye Hospitals - Begumpet,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.82,54.6,1,11,36,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE GO 30LENS PK - NEW,ASPIRE GO 30LENS PK - NEW,Intra State B2B,30,5,2.01,60.3,1,12,43,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Tag71,30,5,1.74,52.25,1,10,33,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,2.08,62.55,1,12,45,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE PRO (3 LENS PACK),ASPIRE PRO (3 LENS PACK),Intra State B2B,30,5,2.02,60.5,1,12,43,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE PRO (6 LENS PACK),ASPIRE PRO (6 LENS PACK),Intra State B2B,30,5,1.73,52.05,1,10,33,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE PRO MULTIFOCAL (3LENS PACK),ASPIRE PRO MULTIFOCAL (3LENS PACK),Intra State B2B,30,5,1.74,52.2,1,10,33,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,ASPIRE PRO MULTIFOCAL TRIAL 1LENS PK,Intra State B2B,30,5,2.05,61.5,1,12,44,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE PRO TORIC (3 LENS PACK),ASPIRE PRO TORIC (3 LENS PACK),Intra State B2B,30,5,2.23,66.75,1,13,50,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,ASPIRE PRO TRAIL (1 LENS PACK),ASPIRE PRO TRAIL (1 LENS PACK),Intra State B2B,30,5,2.12,63.6,1,12,46,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,Biofinity Torics 3 Lens pack (new) XR,Biofinity Torics 3 Lens pack (new) XR,Intra State B2B,30,5,1.63,48.9,1,10,29,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,Biofinity XR 6 Lense pack (new),Biofinity XR 6 Lense pack (new),Intra State B2B,30,5,1.85,55.5,1,11,37,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,Clarity 1Day 1Pk Trails,Clarity 1Day 1Pk Trails,Intra State B2B,175,5,34.99,1049.7,1,176,1051,41.15,0.0,LOW STOCK
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,MY DAY (30 LENS PK),MY DAY (30 LENS PK),Intra State B2B,30,5,5.86,175.65,38,68,214,48.72,0.0,CRITICAL STOCK
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.98,59.52,1,11,41,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Gachibowli,Win Vision Eye Hospitals - Gachibowli,MY DAY TRAIL 1PK,MY DAY TRAIL 1PK,Intra State B2B,210,5,39.89,1196.7,1,201,1188,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Kukatpally,Win Vision Eye Hospitals - Kukatpally,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Intra State B2B,30,5,2.04,61.2,1,12,44,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Kukatpally,Win Vision Eye Hospitals - Kukatpally,ASPIRE GO MAX 1DAY TORIC 30LENS PK,ASPIRE GO MAX 1DAY TORIC 30LENS PK,Intra State B2B,30,5,1.94,58.2,1,11,40,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Kukatpally,Win Vision Eye Hospitals - Kukatpally,MY DAY TORIC (30 LENS PK),MY DAY TORIC (30 LENS PK),Intra State B2B,30,5,1.93,57.9,1,11,39,0.0,0.0,OPTIMAL
+Win Vision Eye Hospitals - Vijayawada,Win Vision Eye Hospitals - Vijayawada,ASPIRE GO MAX 1DAY SPH 30LENS PK,ASPIRE GO MAX 1DAY SPH 30LENS PK,Inter State B2B,30,5,1.96,58.8,1,11,40,0.0,0.0,OPTIMAL
+YESHASS HEALTH CARE PRIVATE LIMITED,YESHASS HEALTH CARE PRIVATE LIMITED,Vrx Fitting Charges,Vrx Fitting Charges,Intra State B2B,60,5,11.87,356.1,1,61,358,0.18,0.0,LOW STOCK
+YESHASS HEALTH CARE PRIVATE LIMITED,YESHASS HEALTH CARE PRIVATE LIMITED,Vrx Lenses,Vrx Lenses,Intra State B2B,130,5,25.88,776.4,1,131,778,0.36,0.0,LOW STOCK

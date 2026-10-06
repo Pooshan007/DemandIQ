@@ -1,0 +1,23 @@
+{
+    "active_mode": "user",
+    "filename": "user_uploads/Dataset.csv",
+    "display_name": "Dataset.csv",
+    "uploaded_at": "2026-10-06T19:15:14.805741",
+    "column_mapping": {
+        "date": "Date",
+        "product_id": "ProductName",
+        "product_name": "ProductName",
+        "category": "GSTSalesType_Name",
+        "store_id": "Account1_Name",
+        "units_sold": "Quantity",
+        "selling_price": "Rate",
+        "cost_price": "",
+        "discount_percent": "",
+        "is_promotion": "",
+        "stock_on_hand": "",
+        "supplier_lead_time_days": ""
+    },
+    "is_trained": true,
+    "last_trained_at": "2026-10-06T21:58:17.366042",
+    "updated_at": "2026-10-06T21:57:27.376152"
+}

@@ -1,0 +1,66 @@
+{
+    "model_explained": "XGBRegressor",
+    "sample_size": 200,
+    "feature_attributions": [
+        {
+            "feature": "stock_on_hand",
+            "mean_shap_value": 43.4553
+        },
+        {
+            "feature": "product_id_encoded",
+            "mean_shap_value": 0.076
+        },
+        {
+            "feature": "selling_price",
+            "mean_shap_value": 0.0637
+        },
+        {
+            "feature": "day",
+            "mean_shap_value": 0.0461
+        },
+        {
+            "feature": "store_id_encoded",
+            "mean_shap_value": 0.0408
+        },
+        {
+            "feature": "rolling_std_7",
+            "mean_shap_value": 0.0387
+        },
+        {
+            "feature": "dayofweek",
+            "mean_shap_value": 0.0358
+        },
+        {
+            "feature": "rolling_mean_7",
+            "mean_shap_value": 0.0337
+        },
+        {
+            "feature": "rolling_mean_28",
+            "mean_shap_value": 0.0325
+        },
+        {
+            "feature": "weekofyear",
+            "mean_shap_value": 0.0215
+        },
+        {
+            "feature": "lag_1",
+            "mean_shap_value": 0.0214
+        },
+        {
+            "feature": "price_change",
+            "mean_shap_value": 0.0166
+        },
+        {
+            "feature": "rolling_std_28",
+            "mean_shap_value": 0.0113
+        },
+        {
+            "feature": "category_encoded",
+            "mean_shap_value": 0.0053
+        },
+        {
+            "feature": "lag_7",
+            "mean_shap_value": 0.0044
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "model_names": [
+        "Random Forest",
+        "XGBoost",
+        "LightGBM",
+        "CatBoost",
+        "Gradient Boosting"
+    ],
+    "weights": {
+        "Random Forest": 0.0,
+        "XGBoost": 1.0,
+        "LightGBM": 0.0,
+        "CatBoost": 0.0,
+        "Gradient Boosting": 0.0
+    },
+    "architecture": "Weighted Averaging Ensemble",
+    "optimization_metric": "Validation RMSE",
+    "features_used": [
+        "selling_price",
+        "cost_price",
+        "discount_percent",
+        "is_promotion",
+        "stock_on_hand",
+        "supplier_lead_time_days",
+        "year",
+        "month",
+        "day",
+        "dayofweek",
+        "quarter",
+        "is_weekend",
+        "weekofyear",
+        "lag_1",
+        "lag_7",
+        "lag_14",
+        "lag_28",
+        "rolling_mean_7",
+        "rolling_mean_14",
+        "rolling_mean_28",
+        "rolling_std_7",
+        "rolling_std_14",
+        "rolling_std_28",
+        "price_margin",
+        "price_margin_ratio",
+        "price_change",
+        "store_id_encoded",
+        "product_id_encoded",
+        "category_encoded",
+        "store_location_encoded"
+    ]
+}
